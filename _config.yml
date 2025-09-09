@@ -1,7 +1,13 @@
 title: NFM 2026
-description: Website for NFM 2026
-theme: minima
+description: NASA Formal Methods Symposium 2026
+remote_theme: DigitaleGesellschaft/jekyll-theme-conference
 
+plugins:
+  - jekyll-remote-theme
+
+
+
+# Navigation bar
 nav:
   - name: Home
     link: /
@@ -13,3 +19,11 @@ nav:
     link: /committees.md
   - name: Registration
     link: /registration.md
+
+
+  # Conference details
+conference:
+  name: "NFM 2026"
+  date: "May 5–7, 2026"
+  location: "University of Southern California, Los Angeles, USA"
+  about: "The NASA Formal Methods Symposium (NFM) is an international conference organized by NASA for formal methods in verification and validation of critical systems."
