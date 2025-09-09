@@ -1,3 +1,15 @@
 title: NFM 2026
 description: Website for NFM 2026
 theme: minima
+
+nav:
+  - name: Home
+    link: /
+  - name: About
+    link: /about.md
+  -name: Call for papers
+    link: cfp.md
+  -name: Committees
+    link: committees.md
+  -name: Registration
+    link: registration.md
