@@ -3,9 +3,9 @@ layout: default
 title: Committees
 ---
 
-# Committees
 
-## NFM 2026 Organizing Committees
+
+## Organizing Committees
 
 ### General Chairs
 - TBA
@@ -13,10 +13,12 @@ title: Committees
 ### Program Chairs
 - TBA
 
-### Program Committee
-- TBA
+
 
 ### Local Arrangements
+- TBA
+
+## Program Committee
 - TBA
 
 Committee information will be updated soon.

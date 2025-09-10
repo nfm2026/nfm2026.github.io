@@ -1,29 +1,48 @@
 title: NFM 2026
-description: NASA Formal Methods Symposium 2026
-remote_theme: DigitaleGesellschaft/jekyll-theme-conference
+preposition: ''
+description: NASA Formal Methods Symposium (NFM) 2026<br>
+              University of Southern California<br>
+              Los Angeles, California, USA<br>
+              May 5-7, 2026
+
+remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.3"
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-include-cache
 
+# Site configuration
+baseurl: ""
+url: "https://nfm2026.github.io"
 
-
-# Navigation bar
-nav:
-  - name: Home
-    link: /
-  - name: About
-    link: /about.md
-  - name: Call for papers
-    link: /cfp.md
-  - name: Committees
-    link: /committees.md
-  - name: Registration
-    link: /registration.md
-
-
-  # Conference details
 conference:
-  name: "NFM 2026"
-  date: "May 5–7, 2026"
-  location: "University of Southern California, Los Angeles, USA"
-  about: "The NASA Formal Methods Symposium (NFM) is an international conference organized by NASA for formal methods in verification and validation of critical systems."
+
+  # Navigation bar
+  navigation:
+    links:
+      - name: Committees
+        relative_url: /committees/
+      - name: Call for Papers
+        relative_url: /cfp/
+      - name: Previous Symposiums
+        menu:
+          - name: 2025
+            disabled: true
+          - name: 2024
+            disabled: true
+          - name: 2023
+            disabled: true
+
+
+  # main:
+    # Optional logo shown instead of title:
+    # logo:
+    #   img: "main_logo.png"   # place file at assets/images/main_logo.png
+    # links:
+    #   - name: Home
+    #     relative_url: /
+    #   - name: Call for Papers
+    #     relative_url: /cfp.md
+    #   - name: Committees
+    #     relative_url: /committees.md
+    #   - name: Registration
+    #     relative_url: /registration.md

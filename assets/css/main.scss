@@ -1,0 +1,61 @@
+---
+---
+$fa-font-path: "{{ site.baseurl }}/assets/webfonts";
+@import "conference";
+
+/* Global heading colors */
+h2, h3, h4, h5, h6 {
+  color: #990000;
+}
+
+/* Navbar styling */
+.navbar {
+  background-color: #7a0000 !important;
+  border-bottom: 2px solid #4d0000;
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: #ecf0f1 !important;              /* Light text color */
+}
+
+.navbar-nav .nav-link:hover {
+  color: #000000 !important;             /* Blue hover color */
+}
+
+/* Make the hero behave like a banner with background image + overlay */
+.hero{
+  position: relative;
+  background:
+    linear-gradient(to bottom, rgba(0,0,0,.5), rgba(0,0,0,.5)),
+    url('{{ "/assets/images/hero.jpg" | relative_url }}') center/cover no-repeat;
+  color: #fff;
+  text-align: center;
+  padding: 15rem 1rem;            /* Increased height with more padding */
+  width: 100vw;                  /* Full viewport width */
+  margin-left: calc(-50vw + 50%); /* Break out of container */
+  margin-right: calc(-50vw + 50%); /* Break out of container */
+  margin-top: -5rem;             /* Remove white space above banner */
+  min-height: 60vh;             /* Minimum height of 60% viewport */
+}
+
+/* Tight, readable text over the banner */
+.hero h1{ font-size: clamp(2rem, 5vw, 3rem); font-weight: 700; margin: 0; }
+.hero .preposition{ opacity:.85; margin:.35rem 0 0; }
+.hero .tagline{ 
+  margin: .75rem 0 0; 
+  line-height: 1.6; 
+  font-size: clamp(1.2rem, 3vw, 1.8rem);
+  font-weight: 600;
+}
+
+/* Hide the theme’s built-in title/description block on the main page
+   (so you don’t see them twice). This targets the FIRST h1 + p in the first
+   container on the main layout, which is where the theme prints them. */
+.layout-main .container:first-of-type > h1:first-child,
+.layout-main .container:first-of-type > p:first-of-type{
+  display: none;
+}
+
+/* Space before your main content starts */
+.hero + *{ margin-top: 1.5rem; }
