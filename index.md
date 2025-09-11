@@ -18,7 +18,7 @@ The widespread use and increasing complexity of mission-critical and safety-crit
 
 The focus of this symposium is on formal techniques and other approaches for software assurance, including their theory, current capabilities and limitations, as well as their potential application to aerospace, robotics, and other NASA-relevant safety-critical systems during all stages of the software life-cycle.
 
-**The 18th NASA Formal Methods Symposium (NFM 2026) will be held at the University of Southern California in Los Angeles, California, USA from May 5-7, 2026.**
+**The 18th NASA Formal Methods Symposium (NFM 2026) will be held at the University of Southern California in Los Angeles, California, USA from May 5-7, 2026. The organization of NFM 2026 is being led by the Jet Propulsion Laboratory (JPL) and University of Southern California.**
 
 
 ## Symposium Theme
