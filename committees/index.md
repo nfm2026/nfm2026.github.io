@@ -7,9 +7,6 @@ title: Committees
 
 ## Organizing Committees
 
-### General Chairs
-- TBA
-
 ### Program Chairs
 - TBA
 

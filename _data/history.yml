@@ -1,0 +1,197 @@
+# NASA Formal Methods Symposia
+- year: 2025
+  label: "17th NASA Formal Methods Symposium (NFM 2025)"
+  date: "June 11–13, 2025"
+  location: "Williamsburg, Virginia"
+  organizer: "College of William & Mary, Computer Science Department"
+  proceedings: "Springer LNCS Volume 15682"
+  url: "https://link.springer.com/book/10.1007/978-3-031-93706-4"
+  homepage: "https://shemesh.larc.nasa.gov/nfm2025"
+
+- year: 2024
+  label: "16th NASA Formal Methods Symposium (NFM 2024)"
+  date: "June 4–6, 2024"
+  location: "Moffett Field, California"
+  organizer: "Robust Software Engineering group at NASA Ames"
+  proceedings: "Springer LNCS Volume 14627"
+  url: "https://link.springer.com/book/10.1007/978-3-031-60698-4"
+  homepage: "https://conf.researchr.org/home/nfm-2024"
+
+- year: 2023
+  label: "15th NASA Formal Methods Symposium (NFM 2023)"
+  date: "May 16–18, 2023"
+  location: "Houston, Texas"
+  organizer: "NASA Johnson Space Center"
+  proceedings: "Springer LNCS Volume 13903"
+  url: "https://link.springer.com/book/10.1007/978-3-031-33170-1"
+  homepage: "https://conf.researchr.org/home/nfm-2023"
+
+- year: 2022
+  label: "14th NASA Formal Methods Symposium (NFM 2022)"
+  date: "May 24–27, 2022"
+  location: "Pasadena, California"
+  organizer: "NASA Jet Propulsion Laboratory"
+  proceedings: "Springer LNCS Volume 13260"
+  url: "https://link.springer.com/book/10.1007/978-3-031-06773-0"
+  homepage: "https://nfm2022.caltech.edu"
+
+- year: 2021
+  label: "13th NASA Formal Methods Symposium (NFM 2021)"
+  date: "May 24–28, 2021"
+  location: "Virtual"
+  organizer: "NASA Langley Formal Methods group"
+  proceedings: "Springer LNCS Volume 12673"
+  url: "https://link.springer.com/book/10.1007/978-3-030-76384-8"
+  homepage: "https://shemesh.larc.nasa.gov/nfm2021"
+  notes: "Selected papers published in Innovations in Systems and Software Engineering, Vol. 19, Issue 4 (2023)."
+
+- year: 2020
+  label: "12th NASA Formal Methods Symposium (NFM 2020)"
+  date: "May 11–15, 2020"
+  location: "Virtual"
+  organizer: "Robust Software Engineering group at NASA Ames"
+  proceedings: "Springer LNCS Volume 12229"
+  url: "https://www.springer.com/us/book/9783030557539"
+  homepage: "https://shemesh.larc.nasa.gov/nfm2020"
+
+- year: 2019
+  label: "11th NASA Formal Methods Symposium (NFM 2019)"
+  date: "May 7–9, 2019"
+  location: "Houston, Texas"
+  organizer: "NASA Johnson Space Center"
+  proceedings: "Springer LNCS Volume 11460"
+  url: "https://www.springer.com/gp/book/9783030206512"
+  homepage: "https://shemesh.larc.nasa.gov/nfm2019"
+
+- year: 2018
+  label: "10th NASA Formal Methods Symposium (NFM 2018)"
+  date: "April 17–19, 2018"
+  location: "Newport News, Virginia"
+  organizer: "NASA Langley Formal Methods group"
+  proceedings: "Springer LNCS Volume 10811"
+  url: "https://link.springer.com/book/10.1007/978-3-319-77935-5"
+  homepage: "https://shemesh.larc.nasa.gov/NFM2018"
+  notes: "Selected papers published in Innovations in Systems and Software Engineering, Vol. 15, Issues 3–4 (2019)."
+
+- year: 2017
+  label: "9th NASA Formal Methods Symposium (NFM 2017)"
+  date: "May 16–18, 2017"
+  location: "Moffett Field, California"
+  organizer: "Robust Software Engineering group at NASA Ames"
+  proceedings: "Springer LNCS Volume 10227"
+  url: "http://www.springer.com/us/book/9783319572871"
+  homepage: "https://shemesh.larc.nasa.gov/NFM2017"
+
+- year: 2016
+  label: "8th NASA Formal Methods Symposium (NFM 2016)"
+  date: "June 7–9, 2016"
+  location: "University of Minnesota, Minneapolis, MN"
+  proceedings: "Springer LNCS Volume 9690"
+  url: "http://www.springer.com/us/book/9783319406473"
+  homepage: "http://crisys.cs.umn.edu/nfm2016"
+
+- year: 2015
+  label: "7th NASA Formal Methods Symposium (NFM 2015)"
+  date: "April 27–29, 2015"
+  location: "Pasadena, California"
+  organizer: "NASA Jet Propulsion Laboratory"
+  proceedings: "Springer LNCS Volume 9058"
+  url: "http://www.springer.com/computer/swe/book/978-3-319-17523-2"
+  homepage: "https://shemesh.larc.nasa.gov/NFM2015"
+
+- year: 2014
+  label: "6th NASA Formal Methods Symposium (NFM 2014)"
+  date: "April 29–May 1, 2014"
+  location: "Houston, Texas"
+  organizer: "NASA Johnson Space Center"
+  proceedings: "Springer LNCS Volume 8430"
+  url: "http://www.springer.com/computer/swe/book/978-3-319-06199-3"
+  homepage: "https://shemesh.larc.nasa.gov/NFM2014"
+
+- year: 2013
+  label: "5th NASA Formal Methods Symposium (NFM 2013)"
+  date: "May 14–16, 2013"
+  location: "Moffett Field, California"
+  organizer: "Robust Software Engineering group at NASA Ames"
+  proceedings: "Springer LNCS Volume 7871"
+  url: "http://www.springer.com/computer/swe/book/978-3-642-38087-7"
+  homepage: "https://shemesh.larc.nasa.gov/NFM2013"
+
+- year: 2012
+  label: "4th NASA Formal Methods Symposium (NFM 2012)"
+  date: "April 3–5, 2012"
+  location: "Norfolk, Virginia"
+  organizer: "NASA Langley Formal Methods group"
+  proceedings: "Springer LNCS Volume 7226"
+  url: "http://www.springer.com/computer/swe/book/978-3-642-28890-6"
+  homepage: "https://shemesh.larc.nasa.gov/nfm2012"
+
+- year: 2011
+  label: "3rd NASA Formal Methods Symposium (NFM 2011)"
+  date: "April 18–20, 2011"
+  location: "Pasadena, California"
+  organizer: "NASA Jet Propulsion Laboratory"
+  proceedings: "Springer LNCS Volume 6617"
+  url: "http://www.springer.com/computer/swe/book/978-3-642-20397-8"
+  homepage: "https://shemesh.larc.nasa.gov/nfm2011"
+
+- year: 2010
+  label: "2nd NASA Formal Methods Symposium (NFM 2010)"
+  date: "April 13–15, 2010"
+  location: "Washington D.C."
+  organizer: "NASA Langley Formal Methods group with NASA Goddard and NASA Headquarters"
+  proceedings: "NASA/CP-2010-216215"
+  url: "http://shemesh.larc.nasa.gov/NFM2010/proceedings/NASA-CP-2010-216215.pdf"
+  homepage: "http://shemesh.larc.nasa.gov/NFM2010"
+
+- year: 2009
+  label: "1st NASA Formal Methods Symposium (NFM 2009)"
+  date: "April 6–9, 2009"
+  location: "Moffett Field, California"
+  organizer: "Robust Software Engineering group at NASA Ames"
+  proceedings: "NASA/CP-2009-215407"
+  url: "http://shemesh.larc.nasa.gov/NFM/proceedings/NASA-CP-2009-215407.pdf"
+  homepage: "http://shemesh.larc.nasa.gov/NFM2009"
+
+# NASA Langley Formal Methods Workshops
+- year: 2008
+  label: "6th NASA Langley Formal Methods Workshop (LFM 2008)"
+  date: "April 30–May 2, 2008"
+  location: "Newport News, Virginia"
+  proceedings: "NASA/CP-2008-215309"
+  url: "http://shemesh.larc.nasa.gov/NFM/proceedings/NASA-CP-2008-215309.pdf"
+
+- year: 2000
+  label: "5th NASA Langley Formal Methods Workshop (LFM 2000)"
+  date: "June 13–15, 2000"
+  location: "Williamsburg, Virginia"
+  proceedings: "NASA/CP-2000-210100"
+  url: "http://shemesh.larc.nasa.gov/NFM/proceedings/NASA-CP-2000-210100.pdf"
+
+- year: 1997
+  label: "4th NASA Langley Formal Methods Workshop (LFM 1997)"
+  date: "September 10–12, 1997"
+  location: "Hampton, Virginia"
+  proceedings: "NASA-CP-3356"
+  url: "http://shemesh.larc.nasa.gov/NFM/proceedings/NASA-CP-3356.pdf"
+
+- year: 1995
+  label: "3rd NASA Langley Formal Methods Workshop (LFM 1995)"
+  date: "May 10–12, 1995"
+  location: "Hampton, Virginia"
+  proceedings: "NASA-CP-10176"
+  url: "http://shemesh.larc.nasa.gov/NFM/proceedings/NASA-CP-10176.pdf"
+
+- year: 1992
+  label: "2nd NASA Langley Formal Methods Workshop (LFM 1992)"
+  date: "August 11–13, 1992"
+  location: "Hampton, Virginia"
+  proceedings: "NASA-CP-10110"
+  url: "http://shemesh.larc.nasa.gov/NFM/proceedings/NASA-CP-10110.pdf"
+
+- year: 1990
+  label: "1st NASA Langley Formal Methods Workshop (LFM 1990)"
+  date: "August 20–23, 1990"
+  location: "Hampton, Virginia"
+  proceedings: "NASA-CP-10052"
+  url: "http://shemesh.larc.nasa.gov/NFM/proceedings/NASA-CP-10052.pdf"

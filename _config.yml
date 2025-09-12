@@ -24,13 +24,14 @@ conference:
       - name: Call for Papers
         relative_url: /cfp/
       - name: Previous Symposiums
-        menu:
-          - name: 2025
-            disabled: true
-          - name: 2024
-            disabled: true
-          - name: 2023
-            disabled: true
+        relative_url: /history/
+        # menu:
+        #   - name: 2025
+        #     disabled: true
+        #   - name: 2024
+        #     disabled: true
+        #   - name: 2023
+        #     disabled: true
 
 
   # main:
