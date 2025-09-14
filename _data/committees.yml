@@ -9,4 +9,7 @@
       homepage: "https://www.havelund.com/"
       image: "/assets/images/committee/havelund.jpg"
     - name: "Alessandro Pinto"
+      affiliation: "NASA Jet Propulsion Laboratory"
+      # homepage: ""
+      image: "/assets/images/committee/dummy.jpg"
       
