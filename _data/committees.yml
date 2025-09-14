@@ -1,0 +1,12 @@
+- role: "Program Chairs"
+  members:
+    - name: "Jyotirmoy Deshmukh"
+      affiliation: "University of Southern California"
+      homepage: "https://jdeshmukh.github.io/"
+      image: "/assets/images/committee/deshmukh.jpg"
+    - name: "Klaus Havelund"
+      affiliation: "NASA Jet Propulsion Laboratory"
+      homepage: "https://www.havelund.com/"
+      image: "/assets/images/committee/havelund.jpg"
+    - name: "Alessandro Pinto"
+      
