@@ -19,6 +19,8 @@ conference:
   # Navigation bar
   navigation:
     links:
+      - name: Home
+        relative_url: /
       - name: Committees
         relative_url: /committees/
       - name: Call for Papers
