@@ -25,6 +25,8 @@ conference:
         relative_url: /committees/
       - name: Call for Papers
         relative_url: /cfp/
+      - name: Venue
+        relative_url: /venue/
       - name: Previous Symposiums
         relative_url: /history/
         # menu:

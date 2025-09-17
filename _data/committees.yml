@@ -10,6 +10,12 @@
       image: "/assets/images/committee/havelund.jpg"
     - name: "Alessandro Pinto"
       affiliation: "NASA Jet Propulsion Laboratory"
-      # homepage: ""
-      image: "/assets/images/committee/dummy.jpg"
+      homepage: "https://alessandro-pinto.github.io/"
+      image: "/assets/images/committee/pinto.jpg"
       
+- role: "Website Maintainer"
+  members:
+    - name: "Vidisha Kudalkar"
+      affiliation: "University of Southern California"
+      homepage: ""
+      image: "/assets/images/committee/dummy.jpg"
