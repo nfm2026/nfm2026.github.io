@@ -18,6 +18,9 @@ conference:
 
   # Navigation bar
   navigation:
+    logo:
+      name: JPL
+      url: 'https://www.jpl.nasa.gov/'
     links:
       - name: Home
         relative_url: /
@@ -36,18 +39,3 @@ conference:
         #     disabled: true
         #   - name: 2023
         #     disabled: true
-
-
-  # main:
-    # Optional logo shown instead of title:
-    # logo:
-    #   img: "main_logo.png"   # place file at assets/images/main_logo.png
-    # links:
-    #   - name: Home
-    #     relative_url: /
-    #   - name: Call for Papers
-    #     relative_url: /cfp.md
-    #   - name: Committees
-    #     relative_url: /committees.md
-    #   - name: Registration
-    #     relative_url: /registration.md

@@ -28,11 +28,19 @@ h2, h3, h4, h5, h6 {
   font-weight: bold !important;
 }
 
+.navbar-logo a {
+  color: #ecf0f1 !important;
+}
+
+.navbar-logo a:hover {
+  color: #000000 !important;
+}
+
 
 /* Hide the navbar brand/logo */
-.navbar-brand {
-  display: none !important;
-}
+// .navbar-brand {
+//   display: none !important;
+// }
 
 
 /* Make the hero behave like a banner with background image + overlay */
@@ -69,6 +77,14 @@ h2, h3, h4, h5, h6 {
   line-height: 1.6; 
   font-size: clamp(1.2rem, 3vw, 1.8rem);
   font-weight: 600;
+}
+
+/* NASA Logo*/
+.logo-image {
+  width: clamp(100px, 18vw, 220px);
+  height: auto;
+  display: block;
+  margin: -10rem auto 1rem;
 }
 
 /* Hide the theme’s built-in title/description block on the main page

@@ -5,6 +5,7 @@ title: NFM 2026
 
 <!-- Custom hero just under the navbar -->
 <section class="hero">
+  <img src="/assets/images/nasa-logo.png" alt="NFM logo" class="logo-image">
   <h1>{{ site.title }}</h1>
   {% if site.preposition and site.preposition != '' %}
     <p class="preposition">{{ site.preposition }}</p>
