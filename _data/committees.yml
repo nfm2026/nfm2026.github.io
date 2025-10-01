@@ -19,3 +19,10 @@
       affiliation: "University of Southern California"
       homepage: ""
       image: "/assets/images/committee/kudalkar.jpg"
+
+- role: "Publicity Chair"
+  members:
+    - name: "Francesca Cairoli"
+      affiliation: "University of Trieste"
+      homepage: "https://ai-lab.units.it/?page_id=240"
+      image: "/assets/images/committee/cairoli.jpg"
