@@ -52,10 +52,10 @@ Courageous authors, who want to delve in open source software being applied in r
 
 There are two categories of submissions: 
 
-Regular papers – Up to 18 pages plus references. Regular papers describe fully developed work and complete results. 
+Regular papers – Up to 18 pages plus references. Regular papers describe fully developed work and complete results. Regular papers can present theory, tools or case studies.
 
-Short papers — Up to 6 pages plus references. Short papers describe either novel and publicly available tools, case studies detailing applications of formal methods, or new emerging ideas in the topics of interest. 
- 
+Short papers — Up to 6 pages plus references. Short papers describe emerging but maybe not mature ideas.
+
 All papers should be in English and describe original work that has not been published or submitted elsewhere. Authors of accepted papers must present their work in person at the conference. 
 
 Policy on the use of Gen AI: We understand the convenience afforded by the use of generative AI-based large language models to produce text in the submitted manuscript. However, we strongly encourage the authors to check the generated text for factual errors and inconsistencies. We encourage the authors to adopt appropriate standards for citing products obtained using generative AI (such as text, tables, graphics). Use of AI-based coding assistants is permitted, and we encourage authors to disclose the use of such tools as the community may find this scientifically interesting. 
