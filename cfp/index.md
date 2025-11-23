@@ -107,6 +107,13 @@ The symposium will be organized jointly by NASA Jet Propulsion Laboratory (JPL) 
 ---
 
 
+## Remote Participation
+
+While NFM strongly encourages authors and attendees to join us in person, we recognize that travel to the United States can present challenges and that many valued members of the formal methods community reside abroad. For authors who are unable to travel, we will make every reasonable effort to support remote participation so they can present their work and fully engage with the symposium.
+
+---
+
+
 ## Cost
 
 There will be no registration fee charged to participants as is common for NFM symposia. All interested individuals, including non-US citizens, are welcome to attend, listen to the talks, and participate in discussions. However, all attendees must register. 
