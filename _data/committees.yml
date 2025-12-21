@@ -35,53 +35,53 @@
   members:
     - name: "Erika Abraham"
       affiliation: "RWTH Aachen University"
-      # homepage: ""
-      # image: "/assets/images/committee/dummy.jpg"
+      homepage: "https://ths.rwth-aachen.de/people/erika-abraham/"
+      image: "/assets/images/committee/area_chairs/ErikaAbraham.jpg"
 
     - name: "Bernhard Aichernig"
       affiliation: "Johannes Kepler University Linz"
-      # homepage: "https://aichernig.blogspot.com/"
-      # image: "/assets/images/committee/dummy.jpg"
+      homepage: "https://aichernig.blogspot.com/"
+      image: "/assets/images/committee/area_chairs/BernhardAichernig.jpeg"
 
     - name: "Ezio Bartocci"
       affiliation: "TU Wien"
-      # homepage: "https://www.eziobartocci.com/"
-      # image: "/assets/images/committee/dummy.jpg"
+      homepage: "https://www.eziobartocci.com/"
+      image: "/assets/images/committee/area_chairs/EzioBartocci.png"
 
     - name: "Dirk Beyer"
       affiliation: "LMU Munich"
-      # homepage: "https://www.sosy-lab.org/people/beyer/"
-      # image: "/assets/images/committee/dummy.jpg"
+      homepage: "https://www.sosy-lab.org/people/beyer/"
+      image: "/assets/images/committee/area_chairs/DirkBeyer.jpg"
 
     - name: "Marie Farrell"
       affiliation: "University of Manchester"
-      # homepage: "https://mariefarrell.github.io/index.html"
-      # image: "/assets/images/committee/dummy.jpg"
+      homepage: "https://mariefarrell.github.io/index.html"
+      image: "/assets/images/committee/area_chairs/MarieFarrell.jpeg"
 
     - name: "Bernd Finkbeiner"
       affiliation: "CISPA Helmholtz Center for Information Security"
-      # homepage: "https://finkbeiner.groups.cispa.de/people/finkbeiner.html"
-      # image: "/assets/images/committee/dummy.jpg"
+      homepage: "https://finkbeiner.groups.cispa.de/people/finkbeiner.html"
+      image: "/assets/images/committee/area_chairs/BerndFinkbeiner.avif"
 
     - name: "Marieke Huisman"
       affiliation: "University of Twente"
-      # homepage: "https://mariekehuisman.personalweb.utwente.nl/"
-      # image: "/assets/images/committee/dummy.jpg"
+      homepage: "https://mariekehuisman.personalweb.utwente.nl/"
+      image: "/assets/images/committee/area_chairs/MariekeHuisman.jpg"
 
     - name: "Laura Humphrey"
       affiliation: "NASA Langley Research Center"
       # homepage: ""
-      # image: "/assets/images/committee/dummy.jpg"
+      image: "/assets/images/committee/dummy.jpg"
 
     - name: "Susmit Jha"
       affiliation: "SRI International"
-      # homepage: "https://susmitjha.github.io/"
-      # image: "/assets/images/committee/dummy.jpg"
+      homepage: "https://susmitjha.github.io/"
+      image: "/assets/images/committee/area_chairs/SusmitJha.png"
 
     - name: "Natarajan Shankar"
       affiliation: "SRI International"
-      # homepage: ""
-      # image: "/assets/images/committee/dummy.jpg"
+      homepage: "https://www.sri.com/people/natarajan-shankar/"
+      image: "/assets/images/committee/area_chairs/NatarajanShankar.jpg"
 
 
 
