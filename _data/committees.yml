@@ -114,8 +114,18 @@
       # homepage: ""
       # image: "/assets/images/committee/dummy.jpg"
 
+    - name: "Radu Calinescu"
+      affiliation: "University of York"
+      # homepage: ""
+      # image: "/assets/images/committee/dummy.jpg"
+
     - name: "Alessandro Cimatti"
       affiliation: "Fondazione Bruno Kessler"
+      # homepage: ""
+      # image: "/assets/images/committee/dummy.jpg"
+
+    - name: "Ewen Denney"
+      affiliation: "NASA"
       # homepage: ""
       # image: "/assets/images/committee/dummy.jpg"
 
@@ -125,8 +135,18 @@
       # image: "/assets/images/committee/dummy.jpg"
     
 
+    - name: "Alexandre Duret-Lutz"
+      affiliation: "Ecole Pour l'Informatique et les Techniques Avancees"
+      # homepage: ""
+      # image: "/assets/images/committee/dummy.jpg"
+
     - name: "Bruno Dutertre"
       affiliation: "Amazon"
+      # homepage: ""
+      # image: "/assets/images/committee/dummy.jpg"
+
+    - name: "Aaron Dutle"
+      affiliation: "Langley Research Center"
       # homepage: ""
       # image: "/assets/images/committee/dummy.jpg"
 
@@ -137,6 +157,21 @@
 
     - name: "Rüdiger Ehlers"
       affiliation: "Technische Universität Clausthal"
+      # homepage: ""
+      # image: "/assets/images/committee/dummy.jpg"
+
+    - name: "Yliès Falcone"
+      affiliation: "Université Grenoble Alpes"
+      # homepage: ""
+      # image: "/assets/images/committee/dummy.jpg"
+
+    - name: "Angelo Ferrando"
+      affiliation: "University of Modena-Reggio Emilia"
+      # homepage: ""
+      # image: "/assets/images/committee/dummy.jpg"
+
+    - name: "Antonio Filieri"
+      affiliation: "Imperial College London"
       # homepage: ""
       # image: "/assets/images/committee/dummy.jpg"
 
@@ -151,6 +186,11 @@
       # homepage: ""
       # image: "/assets/images/committee/dummy.jpg"
 
+
+    - name: "Pierre-loïc Garoche"
+      affiliation: "Ecole Nationale de l'Aviation Civile"
+      # homepage: ""
+      # image: "/assets/images/committee/dummy.jpg"
 
     - name: "Alwyn Goodloe"
       affiliation: "NASA"
@@ -174,8 +214,18 @@
       # image: "/assets/images/committee/dummy.jpg"
 
 
+    - name: "Guy Katz"
+      affiliation: "Hebrew University of Jerusalem"
+      # homepage: ""
+      # image: "/assets/images/committee/dummy.jpg"
+
     - name: "Sarfraz Khurshid"
-      affiliation: "ITU of Punjab Lahore, Pakistan"
+      affiliation: "University of Texas at Austin"
+      # homepage: ""
+      # image: "/assets/images/committee/dummy.jpg"
+
+    - name: "Joseph Kiniry"
+      affiliation: "Galois"
       # homepage: ""
       # image: "/assets/images/committee/dummy.jpg"
 
@@ -201,6 +251,21 @@
       # image: "/assets/images/committee/dummy.jpg"
 
 
+    - name: "Alessio Lomuscio"
+      affiliation: "Imperial College London"
+      # homepage: ""
+      # image: "/assets/images/committee/dummy.jpg"
+
+    - name: "Michael Lowry"
+      affiliation: "NASA"
+      # homepage: ""
+      # image: "/assets/images/committee/dummy.jpg"
+
+    - name: "Ravi Mangal"
+      affiliation: "Colorado State University"
+      # homepage: ""
+      # image: "/assets/images/committee/dummy.jpg"
+
     - name: "Panagiotos Manolios"
       affiliation: "Northeastern University"
       # homepage: ""
@@ -208,6 +273,11 @@
 
     - name: "Anastasia Mavridou"
       affiliation: "SGT Inc. / NASA Ames"
+      # homepage: ""
+      # image: "/assets/images/committee/dummy.jpg"
+
+    - name: "Stefan Mitsch"
+      affiliation: "Carnegie Mellon University"
       # homepage: ""
       # image: "/assets/images/committee/dummy.jpg"
 
@@ -238,7 +308,7 @@
       # image: "/assets/images/committee/dummy.jpg"
 
     - name: "Dejan Nickovic"
-      affiliation: "AIT Austrian Institute Of Technology"
+      affiliation: "Austrian Institute Of Technology"
       # homepage: ""
       # image: "/assets/images/committee/dummy.jpg"
     
@@ -269,6 +339,11 @@
       # image: "/assets/images/committee/dummy.jpg"
       
 
+    - name: "Vinayak Prabhu"
+      affiliation: "Colorado State University"
+      # homepage: ""
+      # image: "/assets/images/committee/dummy.jpg"
+
     - name: "Xin Qin"
       affiliation: "California State University, Long Beach"
       # homepage: ""
@@ -292,6 +367,21 @@
 
     - name: "Ivan Ruchkin"
       affiliation: "University of Florida"
+      # homepage: ""
+      # image: "/assets/images/committee/dummy.jpg"
+
+    - name: "Cristina Seceleanu"
+      affiliation: "Mälardalen University Sweden"
+      # homepage: ""
+      # image: "/assets/images/committee/dummy.jpg"
+
+    - name: "Peter Sestoft"
+      affiliation: "IT University of Copenhagen"
+      # homepage: ""
+      # image: "/assets/images/committee/dummy.jpg"
+
+    - name: "Nija Shi"
+      affiliation: "NASA Ames Research Center"
       # homepage: ""
       # image: "/assets/images/committee/dummy.jpg"
 
@@ -324,6 +414,16 @@
 
     - name: "Hazem Torfah"
       affiliation: "Chalmers University of Technology"
+      # homepage: ""
+      # image: "/assets/images/committee/dummy.jpg"
+
+    - name: "Dogan Ulus"
+      affiliation: "Bogazici University"
+      # homepage: ""
+      # image: "/assets/images/committee/dummy.jpg"
+
+    - name: "Frits Vaandrager"
+      affiliation: "Radboud University"
       # homepage: ""
       # image: "/assets/images/committee/dummy.jpg"
 
