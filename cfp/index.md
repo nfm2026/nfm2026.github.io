@@ -40,7 +40,7 @@ Courageous authors, who want to delve in open source software being applied in r
 
 ## Important Dates
 
-- **Paper Submission**: January 10, 2026 
+- **Paper Submission**: January 18, 2026 
 - **Author Notification**: March 10, 2026 
 - **Camera-Ready Deadline**: March 30, 2026 
 - **Symposium**: May 5-7, 2026 

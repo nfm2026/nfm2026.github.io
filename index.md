@@ -13,13 +13,13 @@ title: NFM 2026
   <h1 class="tagline">{{ site.description | markdownify }}</h1>
 </section>
 
-<!-- ## About
-
-The widespread use and increasing complexity of mission-critical and safety-critical systems at NASA and in the aerospace industry require advanced techniques that address these systems’ specification, design, verification, validation, and certification requirements. The NASA Formal Methods Symposium (NFM) is an annual forum to foster collaboration between theoreticians and practitioners from NASA, other government agencies, academia, and industry to identify challenges and provide solutions towards achieving assurance for such critical systems.
-
-The focus of this symposium is on formal techniques and other approaches for software assurance, including their theory, current capabilities and limitations, as well as their potential application to aerospace, robotics, and other NASA-relevant safety-critical systems during all stages of the software life-cycle. -->
 
 **The 18th NASA Formal Methods Symposium (NFM 2026) will be held at the University of Southern California in Los Angeles, California, USA from May 5-7, 2026. The organization of NFM 2026 is being led by the Jet Propulsion Laboratory (JPL) and University of Southern California.**
+
+<p class="updates">
+  Update (Jan 2, 2026): The paper submission deadline has been extended to Jan 18, 2026 (AoE).
+</p>
+
 
 <div class="content-with-dates">
   <div class="main-content">
@@ -40,7 +40,7 @@ The focus of this symposium is on formal techniques and other approaches for sof
     <h2>Important Dates</h2>
 
     <ul>
-      <li><strong>Paper Submission</strong>: January 10, 2026</li>
+      <li><strong>Paper Submission</strong>: January 18, 2026 <s>January 10, 2026</s></li>
       <li><strong>Author Notification</strong>: March 10, 2026</li>
       <li><strong>Camera-Ready Deadline</strong>: March 30, 2026</li>
       <li><strong>Symposium</strong>: May 5-7, 2026</li>
