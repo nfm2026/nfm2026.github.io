@@ -28,6 +28,8 @@ conference:
         relative_url: /committees/
       - name: Call for Papers
         relative_url: /cfp/
+      - name: Workshop
+        relative_url: /workshop/
       - name: Venue
         relative_url: /venue/
       - name: Previous Symposiums
