@@ -1,0 +1,37 @@
+
+  </main>
+  <!-- <footer class="container">
+    Footer
+
+  </footer> -->
+  
+  <footer class="container mt-5 py-4 border-top">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <p class="text-muted small mb-0">
+          <strong>NFM 2026</strong> - NASA Formal Methods Symposium
+        </p>
+        <p class="text-muted small mb-0">
+          University of Southern California, Los Angeles, California, USA | May 5-7, 2026
+        </p>
+        <p class="text-muted small mt-2 mb-0">
+          Contact: <a href="mailto:nfm2026@gmail.com" style="color: #990000;">nfm2026@gmail.com</a>
+        </p>
+        <p class="text-muted small mt-3 mb-0">
+          Copyright &copy; NFM 2026 Organizers
+        </p>
+      </div>
+    </div>
+  </footer>
+
+  {%- include partials/modal_link.html -%}
+
+  {%- if site.conference.live.streaming.enable -%}
+    {%- include partials/modal_live.html -%}
+  {%- endif -%}
+
+  <!-- Append build time to avoid caching of live program embedded in JavaScript file -->
+  <script src="{{ site.baseurl }}/assets/js/main.js?t={{ site.time | date: "%s" }}"></script>
+
+</body>
+</html>
