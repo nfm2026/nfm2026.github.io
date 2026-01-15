@@ -40,7 +40,7 @@ title: NFM 2026
     <h2>Important Dates</h2>
 
     <ul>
-      <li><strong>Paper Submission</strong>: January 18, 2026 <s>January 10, 2026</s></li>
+      <li><strong>Paper Submission</strong>: January 18, 2026 AoE <s>January 10, 2026 AoE</s></li>
       <li><strong>Author Notification</strong>: March 10, 2026</li>
       <li><strong>Camera-Ready Deadline</strong>: March 30, 2026</li>
       <li><strong>Symposium</strong>: May 5-7, 2026</li>

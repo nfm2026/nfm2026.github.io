@@ -40,7 +40,7 @@ Courageous authors, who want to delve in open source software being applied in r
 
 ## Important Dates
 
-- **Paper Submission**: January 18, 2026 
+- **Paper Submission**: January 18, 2026 AoE
 - **Author Notification**: March 10, 2026 
 - **Camera-Ready Deadline**: March 30, 2026 
 - **Symposium**: May 5-7, 2026 
@@ -119,6 +119,3 @@ While NFM strongly encourages authors and attendees to join us in person, we rec
 ## Cost
 
 There will be no registration fee charged to participants as is common for NFM symposia. All interested individuals, including non-US citizens, are welcome to attend, listen to the talks, and participate in discussions. However, all attendees must register. 
-
----
-
