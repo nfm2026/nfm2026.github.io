@@ -204,3 +204,49 @@ h2, h3, h4, h5, h6 {
     position: static; // Remove sticky on mobile
   }
 }
+
+// Speaker Overview styling
+.speakers-overview {
+  .speaker-card {
+    transition: box-shadow 0.3s ease;
+    
+    &:hover {
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+  }
+  
+  .speaker-card h3 a {
+    text-decoration: none;
+    color: inherit;
+    
+    &:hover {
+      color: #990000;
+      text-decoration: underline;
+    }
+  }
+  
+  .abstract-text {
+    line-height: 1.6;
+    margin-top: 0.5rem;
+  }
+  
+  .speaker-bio {
+    font-size: 0.95rem;
+    color: #6c757d;
+  }
+  
+  .keynote-photo {
+    width: 150px !important;
+    height: 150px !important;
+    max-width: 150px !important;
+    max-height: 150px !important;
+    min-width: 150px !important;
+    min-height: 150px !important;
+    object-fit: cover !important;
+    border-radius: 5%;
+    margin-bottom: 0.5rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

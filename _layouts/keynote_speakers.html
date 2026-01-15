@@ -1,0 +1,72 @@
+{%- include partials/header.html -%}
+
+{%- if page.title -%}
+  <h1 class="font-weight-light mb-4">{{ page.title }}</h1>
+{%- else -%}
+  <h1 class="font-weight-light mb-4">{{ site.data.lang[site.conference.lang].speakers.title | default: "Speakers" }}</h1>
+{%- endif -%}
+
+{{ content }}
+
+{%- comment -%}
+  This layout reads keynote speakers from the data file
+{%- endcomment -%}
+{%- assign speakers_list = site.data.keynote_speakers -%}
+
+{%- if speakers_list.size > 0 -%}
+  <div class="speakers-overview">
+    {%- for speaker in speakers_list -%}
+      <div class="speaker-card mb-4 p-3 border rounded">
+        <div class="row">
+          {%- if speaker.image -%}
+            <div class="col-md-3 text-center mb-3 mb-md-0">
+              <img src="{{ speaker.image | prepend: site.baseurl }}" alt="{{ speaker.name }}" class="keynote-photo">
+            </div>
+          {%- endif -%}
+          
+          <div class="{% if speaker.image %}col-md-9{% else %}col-md-12{% endif %}">
+            <h3 class="h4 mb-2">
+              {%- if speaker.webpage -%}
+                <a href="{{ speaker.webpage }}" target="_blank" rel="noopener noreferrer" class="text-reset">
+                  {{ speaker.name }}
+                </a>
+              {%- else -%}
+                {{ speaker.name }}
+              {%- endif -%}
+            </h3>
+            
+            {%- if speaker.affiliation -%}
+              <p class="text-muted mb-2">
+                <strong>{{ speaker.affiliation }}</strong>
+              </p>
+            {%- endif -%}
+            
+            {%- if speaker.bio -%}
+              <div class="speaker-bio mb-3">
+                {{ speaker.bio | markdownify }}
+              </div>
+            {%- endif -%}
+            
+            {%- if speaker.talk_title -%}
+              <h5 class="mt-3 mb-2" style="color: #990000;">
+                <strong>Title:</strong> {{ speaker.talk_title }}
+              </h5>
+            {%- endif -%}
+            
+            {%- if speaker.abstract -%}
+              <div class="abstract-text">
+                <strong>Abstract:</strong> {{ speaker.abstract }}
+              </div>
+            {%- endif -%}
+          </div>
+        </div>
+      </div>
+    {%- endfor -%}
+  </div>
+{%- else -%}
+  <p class="text-muted">No speakers found.</p>
+{%- endif -%}
+
+{%- include partials/footer.html -%}
+
+

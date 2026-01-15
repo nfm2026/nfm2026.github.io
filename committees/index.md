@@ -3,8 +3,6 @@ layout: default
 title: Committees
 ---
 
-
-
 ## Organization
 ---
 
@@ -31,11 +29,3 @@ title: Committees
 </div>
 {% endfor %}
 
-
-
-
-<!-- ### Local Arrangements
-- TBA
-
-## Program Committee
-- TBA -->

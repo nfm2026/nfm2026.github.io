@@ -28,16 +28,12 @@ conference:
         relative_url: /committees/
       - name: Call for Papers
         relative_url: /cfp/
+      - name: Keynote Speakers
+        relative_url: /keynote_speakers/
       - name: Workshop
         relative_url: /workshop/
       - name: Venue
         relative_url: /venue/
       - name: Previous Symposiums
         relative_url: /history/
-        # menu:
-        #   - name: 2025
-        #     disabled: true
-        #   - name: 2024
-        #     disabled: true
-        #   - name: 2023
-        #     disabled: true
+
