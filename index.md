@@ -17,8 +17,8 @@ title: NFM 2026
 **The 18th NASA Formal Methods Symposium (NFM 2026) will be held at the University of Southern California in Los Angeles, California, USA from May 5-7, 2026. The organization of NFM 2026 is being led by the Jet Propulsion Laboratory (JPL) and University of Southern California.**
 
 <p class="updates">
-  Update (Jan 22, 2026): The paper submission deadline has been extended to Jan 24, 2026 (AoE).
-  Update (Jan 2, 2026): The paper submission deadline has been extended to Jan 18, 2026 (AoE).
+  Update (Jan 22, 2026): The paper submission deadline has been extended to Jan 24, 2026 (AoE).<br>
+  Update (Jan 2, 2026): <s>The paper submission deadline has been extended to Jan 18, 2026 (AoE)</s>.
 </p>
 
 
@@ -41,7 +41,9 @@ title: NFM 2026
     <h2>Important Dates</h2>
 
     <ul>
-      <li><strong>Paper Submission</strong>: January 24, 2026 AoE <s>January 18, 2026 AoE January 10, 2026 AoE</s></li>
+      <li><strong>Paper Submission</strong>: January 24, 2026 AoE <br>
+        <s>January 18, 2026 AoE</s><br>
+        <s>January 10, 2026 AoE</s></li>
       <li><strong>Author Notification</strong>: March 10, 2026</li>
       <li><strong>Camera-Ready Deadline</strong>: March 30, 2026</li>
       <li><strong>Symposium</strong>: May 5-7, 2026</li>
