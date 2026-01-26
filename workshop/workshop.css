@@ -1,0 +1,87 @@
+/* Workshop page styling */
+.workshop-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 22px 18px 6px;
+  background: none !important;
+  color: inherit !important;
+  width: auto !important;
+  margin: 0 !important;
+  min-height: auto !important;
+}
+
+.workshop-logo {
+  width: 192px;
+  height: auto;
+  margin-bottom: 10px;
+  margin-top: 0 !important;
+}
+
+.workshop-hero h1 {
+  margin: 0;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+}
+
+.workshop-hero .tagline {
+  font-size: 1.1rem;
+  font-weight: 400;
+  margin-top: 10px;
+}
+
+.content-with-dates {
+  display: flex;
+  gap: 28px;
+  align-items: flex-start;
+}
+
+.main-content {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.important-dates-sidebar {
+  flex: 0 0 330px;
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 10px;
+  padding: 16px 16px 8px;
+  background: #fbfbfb;
+}
+
+.important-dates-sidebar h2 {
+  font-size: 1.25rem;
+  margin-bottom: 10px;
+}
+
+.important-dates-sidebar ul {
+  padding-left: 18px;
+}
+
+/* Match NFM page small update callout style */
+.updates {
+  background: #fff3cd;
+  border: 1px solid #ffeeba;
+  border-radius: 10px;
+  padding: 10px 12px;
+  margin: 12px 0 18px;
+  color: #856404;
+}
+
+/* Make the layout collapse nicely on small screens */
+@media (max-width: 980px) {
+  .content-with-dates { 
+    flex-direction: column; 
+  }
+  .important-dates-sidebar { 
+    flex: 1 1 auto; 
+    width: 100%; 
+  }
+}
+
+/* Keep link color in the footer consistent with NFM style */
+.footer-contact a { 
+  color: #990000; 
+}
