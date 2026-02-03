@@ -228,6 +228,11 @@ h2, h3, h4, h5, h6 {
   .abstract-text {
     line-height: 1.6;
     margin-top: 0.5rem;
+    text-align: justify;
+    
+    strong {
+      color: #990000;
+    }
   }
   
   .speaker-bio {
