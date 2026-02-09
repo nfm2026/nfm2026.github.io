@@ -43,9 +43,26 @@
   affiliation: "Professor, Sibley School of Mechanical and Aerospace Engineering, Cornell University"
   image: "/assets/images/keynote_speakers/HadasKress-Gazit.jpg"
   webpage: "https://www.engineering.cornell.edu/people/hadas-kress-gazit/"
-  talk_title: "(Preliminary) Formal Methods in the Field of Robotics"
-  # abstract: ""
-  # bio: ""
+  talk_title: "Formal methods for robotics in the age of big data"
+  abstract: "Robots are physical machines interacting with the real world; they are difficult to model, 
+    yet we need to guarantee they will be safe. Making them even more difficult to verify is the growing 
+    approach of using data, and generative AI, to control them. Given this, what role can, and should, 
+    formal methods play in advancing robotics? In this talk I will give a few examples for what we can 
+    do with formal methods to \"verify\" robot behavior, discuss their promise and challenges, and 
+    describe the synergies I see with data-driven approaches."
+  bio: "Hadas Kress-Gazit is the Geoffrey S.M. Hedrick Sr. Professor at the Sibley School of Mechanical 
+    and Aerospace Engineering at Cornell University, and the Associate Dean for Diversity and Academic 
+    Affairs of Cornell Duffield College of Engineering. She received her Ph.D. in Electrical and Systems 
+    Engineering from the University of Pennsylvania in 2008 and has been at Cornell since 2009. Her research 
+    focuses on formal methods for robotics and automation and more specifically on high-level specifications 
+    and synthesis for robot control. Her group has explored different types of robotic systems including 
+    modular robots, soft robots and swarms, and how formal methods can be used for human-robot interaction. 
+    She received an NSF CAREER award in 2010, a DARPA Young Faculty Award in 2012, Cornell Engineering’s 
+    Excellence in teaching award in 2013 and 2019, and excellence in research award in 2021. She is an IEEE 
+    Fellow and has served on DARPA’s Information Science and Technology study group (ISAT), as the program 
+    chair for Robotics: Science and Systems (RSS) 2018, the program chair for the International Conference 
+    on Robotics and Automation (ICRA) 2022, and the president of the RSS board (2019-2023), among other 
+    leadership positions in the robotics community."
 
 - name: "Rahul Kumar"
   affiliation: "Applied Scientist, The Automated Reasoning Group, Amazon Web Services (AWS)"
