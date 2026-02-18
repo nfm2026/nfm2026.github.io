@@ -105,5 +105,39 @@
   image: "/assets/images/keynote_speakers/CesarMunoz.jpg"
   webpage: "https://shemesh.larc.nasa.gov/people/cam/"
   talk_title: "Formal Verification in Practice: Interactive Theorem Proving for NASA Safety-Critical Systems"
-  # abstract: ""
-  # bio: ""
+  abstract: "For over 30 years, NASA Langley Research Center has developed and
+    applied formal methods to the validation and verification of aerospace
+    systems critical to NASA missions. Central to the success of these
+    efforts was the strategic investment in building a comprehensive
+    verification infrastructure based on interactive theorem proving.
+    This infrastructure is built on SRI's Prototype Verification System
+    (PVS) and includes several key components: NASALib, a large collection
+    of formal PVS developments curated and maintained by the NASA LaRC
+    Formal Methods Team; VSCode-PVS, a modern integrated development
+    environment for interactive theorem proving based on Microsoft Visual
+    Studio Code; PRECiSA, a proof-producing static analyzer for
+    floating-point round-off errors; and Plaidypvs, a logical framework
+    for the verification of cyber-physical systems. These tools are
+    publicly available on GitHub under NASA's Open-Source Agreement.
+    This talk presents real-world examples of verification efforts at NASA
+    where this infrastructure has significantly contributed to the
+    development of safety-critical systems. It also discusses the
+    impact of this research in enhancing aerospace safety and enabling the
+    development of reliable operational concepts and software systems for
+    NASA's autonomous missions."
+  bio: "Cesar Munoz is a Research Computer Scientist at NASA Langley Research
+    Center, where he leads the Formal Methods Team. He specializes in the
+    development and application of formal methods for designing,
+    implementing, and verifying safety-critical systems of interest to
+    NASA. Cesar holds a PhD in Computer Science from the
+    University of Paris 7 (now Paris Cité University) in France. He began
+    his NASA career as a contractor in 1999 and became a civil servant in
+    2009. From 2021 to 2023, he served as Senior Principal Applied
+    Scientist at Amazon Web Services, where he managed the S3 Automated
+    Reasoning Team. He returned to NASA in 2023 to continue advancing
+    formal methods research and applications. His primary research focus
+    is theorem proving. As an expert user of SRI's Prototype Verification
+    System (PVS), Cesar has developed numerous publicly available
+    strategies, libraries, and utilities for PVS. These contributions,
+    along with his team's work, have been extensively applied to the
+    verification of safety-critical systems across NASA."
