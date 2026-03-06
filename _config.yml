@@ -32,6 +32,8 @@ conference:
         relative_url: /keynote_speakers/
       - name: Workshop
         relative_url: /workshop/
+      - name: Registration
+        relative_url: /registration/
       - name: Venue
         relative_url: /venue/
       - name: Previous Symposiums
