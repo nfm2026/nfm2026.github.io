@@ -17,3 +17,13 @@ The NFM 2026 Symposium will be held at the **Michelson Center for Convergent Bio
         >
     </iframe>
 </div>
+
+## Hotels
+
+We have secured a group rate at the USC Hotel for attendees of the NASA Formal Methods Symposium 2026. 
+Reservations can be made by emailing hotelreservations@usc.edu or by calling 833-226-6587 or 213-748-4141 
+and mentioning the group name “NASA Formal Methods Symposium 2026.” 
+Rooms can also be booked using the [link](https://be.synxis.com/?Hotel=5374&Chain=24206&arrive=5/03/2026&depart=5/07/2026&group=2605USCVIT_001).
+Guests are responsible for their own accommodation and any additional charges. 
+Overnight parking is available at $35 plus tax per night, also paid individually. 
+The last day to book under the group rate is April 17, 2026.
