@@ -111,7 +111,7 @@ The symposium will be organized jointly by NASA Jet Propulsion Laboratory (JPL) 
 
 ## Remote Participation
 
-While NFM strongly encourages authors and attendees to join us in person, we recognize that travel to the United States can present challenges and that many valued members of the formal methods community reside abroad. For authors who are unable to travel, we will make every reasonable effort to support remote participation so they can present their work and fully engage with the symposium.
+While NFM strongly encourages authors and attendees to join us in person, we recognize that travel to the United States can present challenges and that many valued members of the formal methods community reside abroad. For authors who are unable to travel, we will make every reasonable effort to support remote presentation. Note, however, that there will not be general remote participation in the entire event.
 
 ---
 
