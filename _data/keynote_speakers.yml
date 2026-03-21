@@ -68,8 +68,17 @@
   affiliation: "Applied Scientist, The Automated Reasoning Group, Amazon Web Services (AWS)"
   image: "/assets/images/keynote_speakers/RahulKumar.jpeg"
   webpage: "https://www.amazon.science/author/rahul-kumar-1"
-  talk_title: "(Preliminary) Automated Reasoning at AWS, Including Verification of Rust Programs"
-  # abstract: ""
+  talk_title: "Verify the Safety of the Rust Standard Library"
+  abstract: "Rust’s standard library underpins every Rust program, yet it contains thousands of unsafe functions 
+    whose correctness is assured only by manual reasoning. We report on the first large-scale effort to formally 
+    verify the safety of this library, organized as an open challenge program that combines crowdsourced proof 
+    engineering with automated harness generation. Over fifteen months, the project integrated four verification 
+    tools into continuous integration, attracted contributions from multiple universities and companies, 
+    and developed autoharness, a tool that automatically generates proof harnesses at the MIR level. 
+    Autoharness produced 15,607 harnesses and verified the absence of undefined behavior in 10,249 functions 
+    (37.3% of all functions in the core and std crates). We describe the challenge program design, analyze the 
+    coverage results, report on bugs found in the standard library, and identify the main open problems, 
+    including generic function verification, intrinsic modeling, and concurrency, as targets for future research."
   # bio: ""
 
 - name: "Leonardo de Moura"
