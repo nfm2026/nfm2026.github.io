@@ -40,17 +40,51 @@ Guests are responsible for their own accommodation and any additional charges.
 Overnight parking is available at $35 plus tax per night, also paid individually. 
 The last day to book under the group rate is **April 17, 2026**.
 
-In addition, there are several other hotels near USC. Some of these are listed below.
+In addition, there are several other hotels near USC in Downtown Los Angeles (DTLA). 
+Some of these are listed below, sorted alphabetically.
 
-- Hotel Indigo DTLA
-- The Biltmore Los Angeles
-- DoubleTree by Hilton DTLA
-- Hilton Checkers
-- Courtyard by Marriott at LA LIVE
-- Residence Inn by Marriott at LA LIVE
-- The Westin Bonaventure
-- JW Marriott at LA LIVE
-- The LA Grand Hotel Downtown
-- AC/MOXY
-- Intercontinental DTLA
-- Omni Los Angeles Hotel
+<ul>
+
+    <li><a href="https://www.marriott.com/en-us/hotels/laxav-ac-hotel-downtown-los-angeles/overview/">AC Hotel Downtown Los Angeles</a></li>
+
+    <li><a href="https://www.thebiltmorehotels.com/en/biltmore-los-angeles/">The Biltmore</a></li>
+
+    <li><a href="https://www.marriott.com/en-us/hotels/laxzd-citizenm-los-angeles-downtown/overview/">CitizenM Los Angels Downtown</a></li>
+
+    <li><a href="https://www.hilton.com/en/hotels/laxavci-conrad-los-angeles/">Conrad Los Angeles</a></li>
+
+    <li><a href="https://www.marriott.com/en-us/hotels/laxld-courtyard-los-angeles-la-live/overview/">Courtyard by Marriott at LA LIVE</a></li>
+
+    <li><a href="https://www.hilton.com/en/hotels/laxdtdt-doubletree-los-angeles-downtown/">DoubleTree by Hilton</a></li>
+
+    <li><a href="https://www.properhotel.com/downtown-la/">Downtown LA Proper</a></li>
+
+    <li><a href="https://www.hilton.com/en/hotels/laxchhf-hilton-checkers-los-angeles/">Hilton Checkers</a></li>
+
+    <li><a href="https://www.hotelfigueroa.com/">Hotel Figueroa</a></li>
+
+    <li><a href="https://www.ihg.com/hotelindigo/hotels/us/en/los-angeles/laxfs/hoteldetail">Hotel Indigo</a></li>
+
+    <li><a href="https://thehoxton.com/downtown-la/">The Hoxton Downtown LA</a></li>
+
+    <li><a href="https://www.ihg.com/intercontinental/hotels/us/en/los-angeles/laxhc/hoteldetail">InterContinental</a></li>
+
+    <li><a href="https://www.marriott.com/en-us/hotels/laxjw-jw-marriott-los-angeles-la-live/overview/">JW Marriott at LA LIVE</a></li>
+
+    <li><a href="https://www.laac.com/hotel/">Los Angeles Athletic Club Hotel</a></li>
+
+    <li><a href="https://www.marriott.com/en-us/hotels/laxox-moxy-downtown-los-angeles/overview/">Moxy Downtown Los Angeles</a></li>
+
+    <li><a href="https://www.wyndhamhotels.com/trademark/los-angeles-california/the-o-hotel-trademark-collection/overview">The O Hotel</a></li>
+
+    <li><a href="https://www.omnihotels.com/hotels/los-angeles-california-plaza">Omni Los Angeles</a></li>
+
+    <li><a href="https://hotelperla.com/">PER LA</a></li>
+
+    <li><a href="https://www.marriott.com/en-us/hotels/laxri-residence-inn-los-angeles-la-live/overview/">Residence Inn by Marriott at LA LIVE</a></li>
+
+    <li><a href="https://www.marriott.com/en-us/hotels/laxgr-sheraton-grand-los-angeles/overview/">Sheraton Grand Los Angeles</a></li>
+
+    <li><a href="https://www.marriott.com/en-us/hotels/laxbw-the-westin-bonaventure-hotel-and-suites-los-angeles/overview/">The Westin Bonaventure Hotel &amp; Suites</a> </li>
+
+  </ul>
