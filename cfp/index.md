@@ -64,6 +64,8 @@ All submissions will be fully reviewed by members of the Program Committee. The 
 
 NFM is currently arranging to publish accepted regular and short papers in the Formal Methods subline of Springer’s Lecture Notes in Computer Science (LNCS). Authors should therefore use the LNCS style formatting described at  [https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Papers must be submitted in PDF format through the Openreview submission site here: [https://openreview.net/group?id=NFM/2026/Symposium](https://openreview.net/group?id=NFM/2026/Symposium). Detailed instructions on submitting papers through the Openreview submission system can be found below.
 
+**Copyright form:** [NFM 2026 copyright form](nfm-2026-copyright-form.docx)
+
 ---
 
 
