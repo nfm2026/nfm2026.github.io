@@ -28,6 +28,8 @@ conference:
         relative_url: /committees/
       - name: Call for Papers
         relative_url: /cfp/
+      - name: Accepted Papers
+        relative_url: /accepted_papers/
       - name: Keynote Speakers
         relative_url: /keynote_speakers/
       - name: Workshop
