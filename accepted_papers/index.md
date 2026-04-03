@@ -53,7 +53,7 @@ title: Accepted Papers
 16. **Safer Policies via Affine Representations using Koopman Dynamics**<br>
     Tanmay Ambadkar, Darshan Chudiwal, Greg Anderson, Abhinav Verma
 
-17. **Formal Analysis of Stochastic Cognitive Models**<br>
+17. **Formal Analysis of Stochastic Cognitive Models: A Translation Framework from Soar to PRISM**<br>
     Parth Ganeriwala, Candice Chambers, James I. Lathrop, Siddhartha Bhattacharyya, Junaid Babar, Stephen Gilbert, Isaac Amundson, Michael C. Dorneich, Mohammed Abdul Hafeez Khan
 
 18. **Interactive Safety Verification of Distributed Protocols by Inductive Proof Decomposition**<br>
