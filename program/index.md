@@ -1,4 +1,4 @@
 ---
 layout: program
-title: Program
+title: Schedule
 ---
