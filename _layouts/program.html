@@ -9,14 +9,9 @@ layout: default
     <div class="day-section">
       <h2>{{ day.name }} - {{ day.date | date: "%B %d, %Y" }}</h2>
 
-      {% for room in day.rooms %}
-        <div class="room-section">
-          {% if day.rooms.size > 1 %}
-            <h3>{{ room.name }}</h3>
-          {% endif %}
-
-          {% if room.sessions %}
-            {% for session in room.sessions %}
+      <div class="room-section">
+        {% if day.sessions %}
+          {% for session in day.sessions %}
               <div class="session-group">
                 {% unless session.name == "Break" %}
                   <h4 class="session-title">{{ session.name }}</h4>
@@ -53,35 +48,8 @@ layout: default
                 </table>
               </div>
             {% endfor %}
-          {% else %}
-            <table class="schedule-table">
-              <thead>
-                <tr>
-                  <th>Time</th>
-                  <th>Session</th>
-                </tr>
-              </thead>
-              <tbody>
-                {% for talk in room.talks %}
-                  <tr>
-                    <td class="time-cell">
-                      {{ talk.time_start }} - {{ talk.time_end }}
-                    </td>
-                    <td class="session-cell">
-                      <div>{{ talk.name }}</div>
-                      {% if talk.speakers %}
-                        <div class="speaker-cell">
-                          {{ talk.speakers }}
-                        </div>
-                      {% endif %}
-                    </td>
-                  </tr>
-                {% endfor %}
-              </tbody>
-            </table>
-          {% endif %}
-        </div>
-      {% endfor %}
+        {% endif %}
+      </div>
     </div>
   {% endfor %}
 </div>
