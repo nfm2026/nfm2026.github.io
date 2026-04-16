@@ -8,3 +8,6 @@ gem "jekyll-include-cache", group: :jekyll_plugins
 # GitHub Pages compatible gems
 gem "github-pages", "~> 228", group: :jekyll_plugins
 
+# Web server for serving jekyll
+gem "webrick", "~> 1.7"
+

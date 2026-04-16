@@ -1,19 +1,240 @@
+day_start: "09:00"
+day_end: "18:00"
 days:
-  - name: Monday
-    abbr: Mo
-    date: 2020-01-31
+  - name: Day 1
+    abbr: Mon
+    date: 2026-05-05
     rooms:
-      - name: Room A
-        talks:
-          - name: Vim Impetus Placerat Cotidieque Ad
-            time_start: "12:00"
-            time_end: "12:45"
-          - name: Condimentum Vitae Sapien Pellentesque
-            time_start: "12:45"
-            time_end: "13:30"
+      - name: Main Hall
+        sessions:
+          - name: "Session 1: Keynote Session"
+            talks:
+              - name: "Lean 4: A Unified Platform for Programming and Verification"
+                speakers: Leonardo de Moura
+                time_start: "09:00"
+                time_end: "10:00"
+          - name: "Break"
+            talks:
+              - name: Coffee Break
+                time_start: "10:00"
+                time_end: "10:30"
+          - name: "Session 2: Distributed Systems & Solver Verification"
+            talks:
+              - name: "Interactive Safety Verification of Distributed Protocols by Inductive Proof Decomposition"
+                speakers: William Schultz, Edward Ashton, Heidi Howard, Stavros Tripakis
+                time_start: "10:30"
+                time_end: "11:00"
+              - name: "DisQ: A Model of Distributed Quantum Processors"
+                speakers: Le Chang, Saitej Yavvari, W. Rance Cleaveland, Samik Basu, Runzhou Tao, Liyi Li
+                time_start: "11:00"
+                time_end: "11:30"
+              - name: "Verifying a Solver for Mixed Flow-Sensitive Analyses"
+                speakers: Sarah Tilscher, Alexandra Graß, Helmut Seidl
+                time_start: "11:30"
+                time_end: "12:00"
+          - name: "Break"
+            talks:
+              - name: Lunch
+                time_start: "12:00"
+                time_end: "13:30"
+          - name: "Session 3: Keynote Session"
+            talks:
+              - name: "Formal methods for robotics in the age of big data"
+                speakers: Hadas Kress-Gazit
+                time_start: "13:30"
+                time_end: "14:30"
+          - name: "Break"
+            talks:
+              - name: Coffee Break
+                time_start: "14:30"
+                time_end: "14:45"
+          - name: "Session 4: Runtime Monitoring for Autonomous Systems"
+            talks:
+              - name: "From Natural Language Requirements to Runtime Monitors for Resource-Constrained Systems: Integrating FRET and R2U2"
+                speakers: Alexis Aurandt, Christopher Johannsen, Andreas Katis, Anastasia Mavridou, Kristin Yvonne Rozier, Phillip H. Jones
+                time_start: "14:45"
+                time_end: "15:15"
+              - name: "From High-Level Types to Low-Level Monitors: Synthesizing Verified Runtime Checkers for MAVLink"
+                speakers: Arthur Amorim, Paul Gazzillo, Max Taylor, Lance Joneckis
+                time_start: "15:15"
+                time_end: "15:45"
+              - name: "Hardware-In-The-Loop Validation of Formal Models: An Application to AI-Controlled Drones"
+                speakers: Fabian Vu, Jan Gruteser, Philipp Körner, Michael Leuschel, David Geleßus, Miles Vella
+                time_start: "15:45"
+                time_end: "16:15"
+          - name: "Break"
+            talks:
+              - name: Coffee Break
+                time_start: "16:15"
+                time_end: "16:30"
+          - name: "Session 5: Stochastic & Probabilistic Formal Methods"
+            talks:
+              - name: "Sensor Tolerance Contracts for Safety Assurance in Cyber-Physical Systems"
+                speakers: Jian Xiang
+                time_start: "16:30"
+                time_end: "17:00"
+              - name: "Learning Probabilistic Automata from Single Continuous-Valued System Logs"
+                speakers: Simon Dierl, Nastaran Kianersi, Falk Howar, Sean Kauffman
+                time_start: "17:00"
+                time_end: "17:30"
+              - name: "Formal Analysis of Stochastic Cognitive Models: A Translation Framework from Soar to PRISM"
+                speakers: Parth Ganeriwala, Candice Chambers, James I. Lathrop, Siddhartha Bhattacharyya, Junaid Babar, Stephen Gilbert, Isaac Amundson, Michael C. Dorneich, Mohammed Abdul Hafeez Khan
+                time_start: "17:30"
+                time_end: "18:00"
 
-      - name: Room B
-        talks:
-          - name: Arcu Non Odio
-            time_start: "12:00"
-            time_end: "13:00"
+  - name: Day 2
+    abbr: Tue
+    date: 2026-05-06
+    rooms:
+      - name: Main Hall
+        sessions:
+          - name: "Session 6: Keynote Session"
+            talks:
+              - name: "CSLib: Building a Platform for AI-assisted Formal Verification in Lean"
+                speakers: Clark Barrett
+                time_start: "09:00"
+                time_end: "10:00"
+          - name: "Break"
+            talks:
+              - name: Coffee Break
+                time_start: "10:00"
+                time_end: "10:30"
+          - name: "Session 7: Low-Level Systems & Hardware Verification"
+            talks:
+              - name: "Bit-Vector CHC Solving for Binary Analysis and Binary Analysis for Bit-Vector CHC Solving"
+                speakers: Aaron Bembenek, Toby Murray
+                time_start: "10:30"
+                time_end: "11:00"
+              - name: "Multicore Scheduling for Large Safety-Critical Applications: Beyond Single-Core Equivalence"
+                speakers: Peter Csaba Ölveczky, José Meseguer
+                time_start: "11:00"
+                time_end: "11:30"
+              - name: "Artificial Incorrectness: SMT and LLMs in Hardware Synthesis"
+                speakers: Edward Wang, Joe Walston, Luca Daniel, Tony Tan, Yoni Zohar, Clark Barrett
+                time_start: "11:30"
+                time_end: "12:00"
+          - name: "Break"
+            talks:
+              - name: Lunch
+                time_start: "12:00"
+                time_end: "13:30"
+          - name: "Session 8: Keynote Session"
+            talks:
+              - name: "Mathematical Superintelligence"
+                speakers: Tudor Achim
+                time_start: "13:30"
+                time_end: "14:30"
+          - name: "Break"
+            talks:
+              - name: Coffee Break
+                time_start: "14:30"
+                time_end: "14:45"
+          - name: "Session 9: Neural Network Verification & Adversarial Robustness"
+            talks:
+              - name: "Towards Formal Verification of Deep Neural Networks for Object Detection"
+                speakers: Avraham Raviv, Yizhak Yisrael Elboher, Omri Isac, Michelle Aluf-Medina, Ben Hagag, Golan Shmueli, Guy Katz, Hillel Kugler
+                time_start: "14:45"
+                time_end: "15:15"
+              - name: "Adversarial Robustness of Time-Series Classification for Crystal Collimator Alignment"
+                speakers: Xaver Fink, Borja Fernandez Adiego, Daniele Mirarchi, Eloise Matheson, Álvaro García González, Gianmarco Ricci, Joost-Pieter Katoen
+                time_start: "15:15"
+                time_end: "15:45"
+              - name: "Safer Policies via Affine Representations using Koopman Dynamics"
+                speakers: Tanmay Ambadkar, Darshan Chudiwal, Greg Anderson, Abhinav Verma
+                time_start: "15:45"
+                time_end: "16:15"
+          - name: "Break"
+            talks:
+              - name: Coffee Break
+                time_start: "16:15"
+                time_end: "16:30"
+          - name: "Session 10: Program Analysis & Defect Detection"
+            talks:
+              - name: "Misguarded Computations: A Pattern of Ineffective Conditional Protection"
+                speakers: Oleksandr Kolchyn, Dariia Rudenko
+                time_start: "16:30"
+                time_end: "17:00"
+              - name: "Quantitative Symbolic Patch Impact Analysis"
+                speakers: Laboni Sarker, Abdus Satter, Tevfik Bultan
+                time_start: "17:00"
+                time_end: "17:30"
+              - name: "Evaluating Coverage and Fault Detection Capability of Scenarios for the Validation of Asmeta Specifications"
+                speakers: Andrea Bombarda, Silvia Bonfanti, Cesar Cornejo, Angelo Gargantini, Nico Pellegrinelli
+                time_start: "17:30"
+                time_end: "18:00"
+
+  - name: Day 3
+    abbr: Wed
+    date: 2026-05-07
+    rooms:
+      - name: Main Hall
+        sessions:
+          - name: "Session 11: Keynote Session"
+            talks:
+              - name: "Verifying the Safety of the Rust Standard Library"
+                speakers: Rahul Kumar
+                time_start: "09:00"
+                time_end: "10:00"
+          - name: "Break"
+            talks:
+              - name: Coffee Break
+                time_start: "10:00"
+                time_end: "10:30"
+          - name: "Session 12: Formal Semantics & Verified Tools"
+            talks:
+              - name: "A Formal Semantics of C with OpenMP Parallelism"
+                speakers: Ke Du, Anshu Sharma, Liyi Li, William Mansky
+                time_start: "10:30"
+                time_end: "11:00"
+              - name: "Towards Formal Verification of Hybrid Synchronous Programs with Refinement Types"
+                speakers: Serra Zehra Dane, Jiawei Chen, Marc Pouzet, Jean-Baptiste Jeannin
+                time_start: "11:00"
+                time_end: "11:30"
+              - name: "Foundational VeriFast: Pragmatic Certification of Verification Tool Results through Hinted Mirroring"
+                speakers: Bart Jacobs
+                time_start: "11:30"
+                time_end: "12:00"
+          - name: "Break"
+            talks:
+              - name: Lunch
+                time_start: "12:00"
+                time_end: "13:30"
+          - name: "Session 13: Keynote Session"
+            talks:
+              - name: "Formal Verification in Practice: Interactive Theorem Proving for NASA Safety-Critical Systems"
+                speakers: Cesar Munoz
+                time_start: "13:30"
+                time_end: "14:30"
+          - name: "Break"
+            talks:
+              - name: Coffee Break
+                time_start: "14:30"
+                time_end: "14:45"
+          - name: "Session 14: Aviation Safety & Collision Avoidance"
+            talks:
+              - name: "World2Rules: A Neuro-Symbolic Framework for Learning World-Governing Safety Rules for Aviation"
+                speakers: Haichuan Wang, Jay Patrikar, Sebastian Scherer
+                time_start: "14:45"
+                time_end: "15:15"
+              - name: "Compressing ACAS-Xu Lookup Tables with Binary Decision Diagrams"
+                speakers: Martin Boniol, Julien Brunel, Jean-Baptiste Chaudron, Christophe Garion, Xavier Thirioux
+                time_start: "15:15"
+                time_end: "15:45"
+              - name: "Automatic Certification of the Active Corner Method for Collision Avoidance"
+                speakers: Nishant Kheterpal, J. Tanner Slagel, Elanor Tang, Serra Zehra Dane, Jean-Baptiste Jeannin
+                time_start: "15:45"
+                time_end: "16:15"
+          - name: "Break"
+            talks:
+              - name: Coffee Break
+                time_start: "16:15"
+                time_end: "16:30"
+          - name: "Session 15: Student spotlight session and NASA Panel"
+            talks:
+              - name: "Formal Runtime Verification of Avionics Systems Using Level-D Flight Simulator Data and NASA F Prime"
+                speakers: Maria C. Moreno
+                time_start: "16:30"
+                time_end: "17:00"
+              - name: "NASA Panel"
+                time_start: "17:00"
+                time_end: "17:30"
