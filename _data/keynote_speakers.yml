@@ -2,8 +2,16 @@
   affiliation: "CEO and Co-Founder of Harmonic"
   image: "/assets/images/keynote_speakers/TudorAchim.jpg"
   webpage: "https://harmonic.fun/"
-  talk_title: "(Preliminary) Mathematical Superintelligence"
-  # abstract: ""
+  talk_title: "Mathematical Superintelligence: From Competition Mathematics to Formal Verification"
+  abstract: "In 2025, Harmonic's Aristotle model achieved gold medal-level performance at the International 
+    Mathematical Olympiad by constructing formally verified proofs in the Lean proof assistant. Aristotle 
+    combines Monte Carlo tree search and reinforcement learning with interactive theorem proving to navigate 
+    vast search spaces and produce machine-checkable proofs of hard competition problems. Formal mathematics 
+    offers an unambiguous standard of correctness and a rich feedback signal for learning, enabling scaling 
+    to problems at the frontier of mathematical reasoning. This talk presents the architecture and training 
+    methodology behind Aristotle, results on competition and research-level mathematics, and how these formal 
+    reasoning capabilities extend naturally to the verification of software and hardware systems — where 
+    machine-checkable proofs offer guarantees that testing alone cannot provide."
   bio: "Tudor Achim is the CEO and Co-Founder of Harmonic, the AI lab building the world’s most advanced reasoning engine. 
     Under his leadership, Harmonic has pioneered the concept of Mathematical Superintelligence – the next generation of artificial intelligence 
     that eliminates hallucinations by reasoning through mathematics as opposed to language prediction – 
@@ -79,7 +87,17 @@
     (37.3% of all functions in the core and std crates). We describe the challenge program design, analyze the 
     coverage results, report on bugs found in the standard library, and identify the main open problems, 
     including generic function verification, intrinsic modeling, and concurrency, as targets for future research."
-  # bio: ""
+  bio: "Rahul Kumar is a Senior Applied Science Manager at Amazon Web Services, where he leads research 
+    and development of scalable verification technologies. His work focuses on bringing rigorous formal 
+    methods to industrial-scale software systems — making correctness guarantees practical, not just theoretical.
+    Rahul holds a PhD in Computer Science from Brigham Young University and has held research positions at 
+    Microsoft Research and NASA's Jet Propulsion Laboratory, where he developed a deep foundation in formal 
+    methods and program verification. His recent public work centers on the verification of the Rust standard 
+    library — an ambitious effort to formally verify one of the most widely deployed systems programming 
+    libraries in the world. This project exemplifies his broader mission: scaling the rigor of formal 
+    verification to meet the demands of modern, real-world software infrastructure. Rahul brings a rare 
+    combination of academic depth and industry impact, bridging the gap between foundational research and 
+    large-scale deployment of verification tools."
 
 - name: "Leonardo de Moura"
   affiliation: "Senior Principal Applied Scientist, The Automated Reasoning Group, Amazon Web Services (AWS)"
