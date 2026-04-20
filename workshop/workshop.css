@@ -163,3 +163,76 @@
     margin-top: 14px;
   }
 }
+
+
+/* Schedule section styled similarly to NFM program page */
+.schedule-program {
+  margin: 10px 0 28px;
+}
+
+.schedule-day {
+  margin: 0 0 18px;
+  font-size: 1.45rem;
+}
+
+.schedule-session-block {
+  margin-bottom: 22px;
+}
+
+.schedule-session-block h4 {
+  margin: 0 0 8px;
+  font-size: 1.08rem;
+  font-weight: 700;
+}
+
+.schedule-meta {
+  margin: 0 0 10px;
+  font-size: 0.98rem;
+  font-weight: 600;
+  color: #555;
+}
+
+.schedule-entry {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 16px;
+  align-items: start;
+  padding: 8px 0;
+}
+
+.schedule-time {
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.schedule-details p {
+  margin: 0 0 4px;
+}
+
+.schedule-details p:last-child {
+  margin-bottom: 0;
+}
+
+.schedule-speaker {
+  font-weight: 600;
+}
+
+.schedule-title {
+  font-weight: 500;
+}
+
+.schedule-type,
+.schedule-authors {
+  color: #444;
+}
+
+@media (max-width: 760px) {
+  .schedule-entry {
+    grid-template-columns: 1fr;
+    gap: 4px;
+  }
+
+  .schedule-time {
+    margin-bottom: 2px;
+  }
+}
