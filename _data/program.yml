@@ -7,8 +7,8 @@ days:
     sessions:
       - name: "Session 1: Keynote Session"
         talks:
-          - name: "Lean 4: A Unified Platform for Programming and Verification"
-            speakers: Leonardo de Moura
+          - name: "Mathematical Superintelligence"
+            speakers: Tudor Achim
             time_start: "09:00"
             time_end: "10:00"
       - name: "Break"
@@ -86,8 +86,8 @@ days:
     sessions:
       - name: "Session 6: Keynote Session"
         talks:
-          - name: "CSLib: Building a Platform for AI-assisted Formal Verification in Lean"
-            speakers: Clark Barrett
+          - name: "Lean 4: A Unified Platform for Programming and Verification"
+            speakers: Leonardo de Moura
             time_start: "09:00"
             time_end: "10:00"
       - name: "Break"
@@ -111,13 +111,13 @@ days:
             time_end: "12:00"
       - name: "Break"
         talks:
-          - name: Lunch
+          - name: Lunch / steering committee meeting
             time_start: "12:00"
             time_end: "13:30"
       - name: "Session 8: Keynote Session"
         talks:
-          - name: "Mathematical Superintelligence"
-            speakers: Tudor Achim
+          - name: "CSLib: Building a Platform for AI-assisted Formal Verification in Lean"
+            speakers: Clark Barrett
             time_start: "13:30"
             time_end: "14:30"
       - name: "Break"
@@ -223,7 +223,7 @@ days:
           - name: Coffee Break
             time_start: "16:15"
             time_end: "16:30"
-      - name: "Session 15: Student spotlight session and NASA Panel"
+      - name: "Session 15: Case Study and NASA Panel"
         talks:
           - name: "Formal Runtime Verification of Avionics Systems Using Level-D Flight Simulator Data and NASA F Prime"
             speakers: Maria C. Moreno
