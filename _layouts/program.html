@@ -19,7 +19,7 @@ layout: default
                 <table class="schedule-table">
                   <tbody>
                     {% for talk in session.talks %}
-                      {% if talk.name == "Coffee Break" or talk.name == "Lunch" %}
+                      {% if talk.name contains "Coffee Break" or talk.name contains "Lunch" %}
                         <tr class="break-row">
                       {% else %}
                         <tr>

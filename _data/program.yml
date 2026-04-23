@@ -7,7 +7,7 @@ days:
     sessions:
       - name: "Session 1: Keynote Session"
         talks:
-          - name: "Mathematical Superintelligence"
+          - name: "Mathematical Superintelligence: From Competition Mathematics to Formal Verification"
             speakers: Tudor Achim
             time_start: "09:00"
             time_end: "10:00"
