@@ -194,7 +194,7 @@
 
 .schedule-entry {
   display: grid;
-  grid-template-columns: 140px 1fr;
+  grid-template-columns: 100px 1fr;
   gap: 16px;
   align-items: start;
   padding: 8px 0;
@@ -203,6 +203,7 @@
 .schedule-time {
   font-weight: 600;
   white-space: nowrap;
+  font-size: 0.9rem;
 }
 
 .schedule-details p {
@@ -370,7 +371,7 @@
 .organizer-photo {
   display: block;
   width: 100%;
-  max-width: 220px;
+  max-width: 140px;
   height: auto;
   border-radius: 10px;
   object-fit: cover;
@@ -381,4 +382,19 @@
   .organizers-grid {
     grid-template-columns: 1fr;
   }
+}
+
+
+/* Schedule-embedded speaker cards */
+.schedule-details .keynote-speaker-card {
+  margin-top: 10px;
+}
+
+.schedule-details .keynote-speaker-bottom p:last-child {
+  margin-bottom: 0;
+}
+
+/* Panelists displayed vertically like keynote speakers */
+.panelists-card .keynote-speakers {
+  margin-top: 12px;
 }
