@@ -383,18 +383,3 @@
     grid-template-columns: 1fr;
   }
 }
-
-
-/* Schedule-embedded speaker cards */
-.schedule-details .keynote-speaker-card {
-  margin-top: 10px;
-}
-
-.schedule-details .keynote-speaker-bottom p:last-child {
-  margin-bottom: 0;
-}
-
-/* Panelists displayed vertically like keynote speakers */
-.panelists-card .keynote-speakers {
-  margin-top: 12px;
-}
