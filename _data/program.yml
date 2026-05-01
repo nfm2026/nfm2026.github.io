@@ -5,7 +5,7 @@ days:
     abbr: Mon
     date: 2026-05-05
     sessions:
-      - name: "Session 1: Keynote Session"
+      - name: "Session 1: Keynote Session (Chair: Klaus Havelund)"
         talks:
           - name: "Mathematical Superintelligence: From Competition Mathematics to Formal Verification"
             speakers: Tudor Achim
@@ -16,7 +16,7 @@ days:
           - name: Coffee Break
             time_start: "10:00"
             time_end: "10:30"
-      - name: "Session 2: Distributed Systems & Solver Verification"
+      - name: "Session 2: Distributed Systems & Solver Verification (Chair: Anastasia Mavridou)"
         talks:
           - name: "Interactive Safety Verification of Distributed Protocols by Inductive Proof Decomposition"
             speakers: William Schultz, Edward Ashton, Heidi Howard, Stavros Tripakis
@@ -35,7 +35,7 @@ days:
           - name: Lunch
             time_start: "12:00"
             time_end: "13:30"
-      - name: "Session 3: Keynote Session"
+      - name: "Session 3: Keynote Session (Chair: Alessandro Pinto)"
         talks:
           - name: "Formal methods for robotics in the age of big data"
             speakers: Hadas Kress-Gazit
@@ -46,7 +46,7 @@ days:
           - name: Coffee Break
             time_start: "14:30"
             time_end: "14:45"
-      - name: "Session 4: Runtime Monitoring for Autonomous Systems"
+      - name: "Session 4: Runtime Monitoring for Autonomous Systems (Chair: Sean Kauffman)"
         talks:
           - name: "From Natural Language Requirements to Runtime Monitors for Resource-Constrained Systems: Integrating FRET and R2U2"
             speakers: Alexis Aurandt, Christopher Johannsen, Andreas Katis, Anastasia Mavridou, Kristin Yvonne Rozier, Phillip H. Jones
@@ -65,7 +65,7 @@ days:
           - name: Coffee Break
             time_start: "16:15"
             time_end: "16:30"
-      - name: "Session 5: Stochastic & Probabilistic Formal Methods"
+      - name: "Session 5: Stochastic & Probabilistic Formal Methods (Chair: Cesar Munoz)"
         talks:
           - name: "Sensor Tolerance Contracts for Safety Assurance in Cyber-Physical Systems"
             speakers: Jian Xiang
@@ -84,7 +84,7 @@ days:
     abbr: Tue
     date: 2026-05-06
     sessions:
-      - name: "Session 6: Keynote Session"
+      - name: "Session 6: Keynote Session (Chair: Jyo Deshmukh)"
         talks:
           - name: "Lean 4: A Unified Platform for Programming and Verification"
             speakers: Leonardo de Moura
@@ -95,7 +95,7 @@ days:
           - name: Coffee Break
             time_start: "10:00"
             time_end: "10:30"
-      - name: "Session 7: Low-Level Systems & Hardware Verification"
+      - name: "Session 7: Low-Level Systems & Hardware Verification (Chair: Kristin Yvonne Rozier)"
         talks:
           - name: "Bit-Vector CHC Solving for Binary Analysis and Binary Analysis for Bit-Vector CHC Solving"
             speakers: Aaron Bembenek, Toby Murray
@@ -114,7 +114,7 @@ days:
           - name: Lunch / steering committee meeting
             time_start: "12:00"
             time_end: "13:30"
-      - name: "Session 8: Keynote Session"
+      - name: "Session 8: Keynote Session (Chair: Klaus Havelund)"
         talks:
           - name: "CSLib: Building a Platform for AI-assisted Formal Verification in Lean"
             speakers: Clark Barrett
@@ -125,7 +125,7 @@ days:
           - name: Coffee Break
             time_start: "14:30"
             time_end: "14:45"
-      - name: "Session 9: Neural Network Verification & Adversarial Robustness"
+      - name: "Session 9: Neural Network Verification & Adversarial Robustness (Chair: Jean-Baptiste Jeannin)"
         talks:
           - name: "Towards Formal Verification of Deep Neural Networks for Object Detection"
             speakers: Avraham Raviv, Yizhak Yisrael Elboher, Omri Isac, Michelle Aluf-Medina, Ben Hagag, Golan Shmueli, Guy Katz, Hillel Kugler
@@ -144,7 +144,7 @@ days:
           - name: Coffee Break
             time_start: "16:15"
             time_end: "16:30"
-      - name: "Session 10: Program Analysis & Defect Detection"
+      - name: "Session 10: Program Analysis & Defect Detection (Chair: Abinav Verma)"
         talks:
           - name: "Misguarded Computations: A Pattern of Ineffective Conditional Protection"
             speakers: Oleksandr Kolchyn, Dariia Rudenko
@@ -163,7 +163,7 @@ days:
     abbr: Wed
     date: 2026-05-07
     sessions:
-      - name: "Session 11: Keynote Session"
+      - name: "Session 11: Keynote Session (Chair: Alessandro Pinto)"
         talks:
           - name: "Verifying the Safety of the Rust Standard Library"
             speakers: Rahul Kumar
@@ -174,7 +174,7 @@ days:
           - name: Coffee Break
             time_start: "10:00"
             time_end: "10:30"
-      - name: "Session 12: Formal Semantics & Verified Tools"
+      - name: "Session 12: Formal Semantics & Verified Tools (Chair: Laura Humphrey)"
         talks:
           - name: "A Formal Semantics of C with OpenMP Parallelism"
             speakers: Ke Du, Anshu Sharma, Liyi Li, William Mansky
@@ -193,7 +193,7 @@ days:
           - name: Lunch
             time_start: "12:00"
             time_end: "13:30"
-      - name: "Session 13: Keynote Session"
+      - name: "Session 13: Keynote Session (Chair: Jyo Deshmukh)"
         talks:
           - name: "Formal Verification in Practice: Interactive Theorem Proving for NASA Safety-Critical Systems"
             speakers: Cesar Munoz
@@ -204,7 +204,7 @@ days:
           - name: Coffee Break
             time_start: "14:30"
             time_end: "14:45"
-      - name: "Session 14: Aviation Safety & Collision Avoidance"
+      - name: "Session 14: Aviation Safety & Collision Avoidance (Chair: Hadas Kress-Gazit)"
         talks:
           - name: "World2Rules: A Neuro-Symbolic Framework for Learning World-Governing Safety Rules for Aviation"
             speakers: Haichuan Wang, Jay Patrikar, Sebastian Scherer
@@ -223,12 +223,12 @@ days:
           - name: Coffee Break
             time_start: "16:15"
             time_end: "16:30"
-      - name: "Session 15: Case Study and NASA Panel"
+      - name: "Session 15: Case Study and NASA Panel (Chair: Serra Dane)"
         talks:
           - name: "Formal Runtime Verification of Avionics Systems Using Level-D Flight Simulator Data and NASA F Prime"
             speakers: Maria C. Moreno
             time_start: "16:30"
             time_end: "17:00"
-          - name: "NASA Panel"
+          - name: "NASA Panel: Will AI make formal methods relevant or irrelevant?"
             time_start: "17:00"
             time_end: "17:30"
