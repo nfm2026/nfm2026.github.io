@@ -5,7 +5,7 @@ title: "Venue"
 The NFM 2026 Symposium will be held at the **Michelson Center for Convergent Bioscience (MCB), Room 101,** on the campus of the University of Southern California.
 
 
-<div class="map-responsive">
+<!-- <div class="map-responsive">
     <iframe 
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3306.856720316173!2d-118.2923191236173!3d34.021888573168404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c7fb6b8556d7%3A0xa71ef36ad43d35c0!2sUSC%20Michelson%20Center%20for%20Convergent%20Bioscience%20(MCB)!5e0!3m2!1sen!2sus!4v1758140746711!5m2!1sen!2sus" 
         width="600" 
@@ -16,6 +16,10 @@ The NFM 2026 Symposium will be held at the **Michelson Center for Convergent Bio
         referrerpolicy="no-referrer-when-downgrade"
         >
     </iframe>
+</div> -->
+
+<div class="map-responsive">
+<iframe style="width: 100%; height: 300px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.de/en/map/untitled-map_135480?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.de/en/map/untitled-map_135480?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">See full screen</a></p>
 </div>
 
 ---
@@ -29,6 +33,25 @@ While Los Angeles has a significant [railway system](https://www.metro.net/ridin
 [Metro line E](https://www.metro.net/riding/schedules-2/?line=804) connects Santa Monica to Downtown LA with three stops around USC. Specifically, “Expo Park / USC” is the closest metro station to the Michelson Center. To use the metro (or any public transportation system in LA), travelers need to use a [TAP card](https://www.taptogo.net/TAPPurchase), which can be purchased at most metro stations via TAP vending machines or through the official [Tap App](https://www.taptogo.net/tap-app).
 
 For attendees who want to drive, daily and hourly parking options are available in and around the campus: [Link](https://transnet.usc.edu/index.php/daily-and-hourly-parking/)
+
+
+## Dining
+
+The University of Southern California campus offers a variety of convenient dining options, including cafés, food courts, and dining halls within walking distance of the conference venue.
+
+
+<ul>
+  <li>Parkside Dining Hall (4 min walk)</li>
+  <li>RTH Café (2 min walk)</li>
+  <li>Annenberg Café (4 min walk)</li>
+  <li>RTCC Food Court (5 min walk)</li>
+  <li>Honors Dining Hall (9 min walk)</li>
+  <li>USC Village has multiple restaurants and cafés including Bruxie, Café Dulce, CAVA, City Tacos, Il Giardino, Jimmy John’s, Starbucks, Yoboseyo, etc. (10 min walk)</li>
+</ul>
+
+
+In addition, attendees will find numerous dining options just off campus, including Thai by Trio, Northern Cafe, 901 Bar and Grill, Rock and Reilly's, Mercado La Paloma etc.
+
 
 ## Hotels
 There is a variety of accommodation choices available around the venue. USC operates a hotel adjacent to the campus, which is around 10 minutes walk from the venue. 
@@ -90,19 +113,3 @@ Some of these are listed below, sorted alphabetically.
   </ul>
 
 
-## Dining
-
-The University of Southern California campus offers a variety of convenient dining options, including cafés, food courts, and dining halls within walking distance of the conference venue.
-
-
-<ul>
-  <li>Parkside Dining Hall (4 min walk)</li>
-  <li>RTH Café (2 min walk)</li>
-  <li>Annenberg Café (4 min walk)</li>
-  <li>RTCC Food Court (5 min walk)</li>
-  <li>Honors Dining Hall (9 min walk)</li>
-  <li>USC Village has multiple restaurants and cafés including Bruxie, Café Dulce, CAVA, City Tacos, Il Giardino, Jimmy John’s, Starbucks, Yoboseyo, etc. (10 min walk)</li>
-</ul>
-
-
-In addition, attendees will find numerous dining options just off campus, including Thai by Trio, Northern Cafe, 901 Bar and Grill, Rock and Reilly's, Mercado La Paloma etc.
