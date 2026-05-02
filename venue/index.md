@@ -18,10 +18,7 @@ The NFM 2026 Symposium will be held at the **Michelson Center for Convergent Bio
     </iframe>
 </div> -->
 
-<div class="map-responsive">
-<iframe style="width: 100%; height: 300px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.de/en/map/untitled-map_135480?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.de/en/map/untitled-map_135480?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">See full screen</a></p>
-</div>
-
+<iframe style="width: 100%; height: 600px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.de/en/map/untitled-map_135480?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe>
 ---
 
 ## Airports
@@ -33,6 +30,28 @@ While Los Angeles has a significant [railway system](https://www.metro.net/ridin
 [Metro line E](https://www.metro.net/riding/schedules-2/?line=804) connects Santa Monica to Downtown LA with three stops around USC. Specifically, “Expo Park / USC” is the closest metro station to the Michelson Center. To use the metro (or any public transportation system in LA), travelers need to use a [TAP card](https://www.taptogo.net/TAPPurchase), which can be purchased at most metro stations via TAP vending machines or through the official [Tap App](https://www.taptogo.net/tap-app).
 
 For attendees who want to drive, daily and hourly parking options are available in and around the campus: [Link](https://transnet.usc.edu/index.php/daily-and-hourly-parking/)
+
+## Parking 
+Parking is available at several university garages within walking distance of the conference venue. 
+Attendees are responsible for covering their own parking costs. 
+Payment instructions are here: <a href="https://transnet.usc.edu/wp-content/uploads/2025/09/Hourly-and-All-Day-Parking-Availability.jpg"> Link </a>
+Attendees are encouraged to use the following parking structures:
+
+<ul>
+  <li><strong>USC Shrine Parking Structure</strong>
+  <a href="https://maps.app.goo.gl/ueLUeDbYjqwbxPyj7" target="_blank"> 
+    (Map Link)
+    </a>
+  </li>
+
+  <li><strong>USC Figueroa Parking Structure</strong>
+    <a href="https://maps.app.goo.gl/hPCFEcrVicgk32PJ9">(Map Link)
+    </a>
+  </li>
+</ul>
+
+
+
 
 
 ## Dining
