@@ -29,17 +29,18 @@ While Los Angeles has a significant [railway system](https://www.metro.net/ridin
 
 [Metro line E](https://www.metro.net/riding/schedules-2/?line=804) connects Santa Monica to Downtown LA with three stops around USC. Specifically, “Expo Park / USC” is the closest metro station to the Michelson Center. To use the metro (or any public transportation system in LA), travelers need to use a [TAP card](https://www.taptogo.net/TAPPurchase), which can be purchased at most metro stations via TAP vending machines or through the official [Tap App](https://www.taptogo.net/tap-app).
 
-For attendees who want to drive, daily and hourly parking options are available in and around the campus: [Link](https://transnet.usc.edu/index.php/daily-and-hourly-parking/)
+
 
 ## Parking 
-Parking is available at several university garages within walking distance of the conference venue. 
+
+For attendees who want to drive, daily and hourly parking options are available in and around the campus: [Link](https://transnet.usc.edu/index.php/daily-and-hourly-parking/)
 Attendees are responsible for covering their own parking costs. 
 Payment instructions are here: <a href="https://transnet.usc.edu/wp-content/uploads/2025/09/Hourly-and-All-Day-Parking-Availability.jpg"> Link </a>
 Attendees are encouraged to use the following parking structures:
 
 <ul>
   <li><strong>USC Shrine Parking Structure</strong>
-  <a href="https://maps.app.goo.gl/ueLUeDbYjqwbxPyj7" target="_blank"> 
+  <a href="https://maps.app.goo.gl/ueLUeDbYjqwbxPyj7"> 
     (Map Link)
     </a>
   </li>
