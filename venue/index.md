@@ -18,7 +18,7 @@ The NFM 2026 Symposium will be held at the **Michelson Center for Convergent Bio
     </iframe>
 </div> -->
 
-<iframe style="width: 100%; height: 600px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.de/en/map/untitled-map_135480?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=none&captionBar=false&captionMenus=true&captionControl=null"></iframe>
+<iframe style="width: 100%; height: 600px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.de/en/map/untitled-map_135480?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=none&captionBar=false&captionMenus=false&captionControl=null&homeControl=false"></iframe>
 ---
 
 ## Airports
@@ -33,9 +33,11 @@ While Los Angeles has a significant [railway system](https://www.metro.net/ridin
 
 ## Parking 
 
-For attendees who want to drive, daily and hourly parking options are available in and around the campus: [Link](https://transnet.usc.edu/index.php/daily-and-hourly-parking/)
+For attendees who want to drive, daily and hourly parking options are available in and around the campus ([Check here](https://transnet.usc.edu/index.php/daily-and-hourly-parking/)).
 Attendees are responsible for covering their own parking costs. 
-Payment instructions are here: <a href="https://transnet.usc.edu/wp-content/uploads/2025/09/Hourly-and-All-Day-Parking-Availability.jpg"> Link </a>
+Payment instructions are here: [Link](https://transnet.usc.edu/wp-content/uploads/2025/09/Hourly-and-All-Day-Parking-Availability.jpg)
+
+
 Attendees are encouraged to use the following parking structures:
 
 <ul>
