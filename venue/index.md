@@ -18,7 +18,7 @@ The NFM 2026 Symposium will be held at the **Michelson Center for Convergent Bio
     </iframe>
 </div> -->
 
-<iframe style="width: 100%; height: 600px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.de/en/map/untitled-map_135480?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe>
+<iframe style="width: 100%; height: 600px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.de/en/map/untitled-map_135480?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=none&captionBar=false&captionMenus=true&captionControl=null"></iframe>
 ---
 
 ## Airports
