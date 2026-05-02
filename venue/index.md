@@ -88,3 +88,21 @@ Some of these are listed below, sorted alphabetically.
     <li><a href="https://www.marriott.com/en-us/hotels/laxbw-the-westin-bonaventure-hotel-and-suites-los-angeles/overview/">The Westin Bonaventure Hotel &amp; Suites</a> </li>
 
   </ul>
+
+
+## Dining
+
+The University of Southern California campus offers a variety of convenient dining options, including cafés, food courts, and dining halls within walking distance of the conference venue.
+
+
+<ul>
+  <li>Parkside Dining Hall (4 min walk)</li>
+  <li>RTH Café (2 min walk)</li>
+  <li>Annenberg Café (4 min walk)</li>
+  <li>RTCC Food Court (5 min walk)</li>
+  <li>Honors Dining Hall (9 min walk)</li>
+  <li>USC Village has multiple restaurants and cafés including Bruxie, Café Dulce, CAVA, City Tacos, Il Giardino, Jimmy John’s, Starbucks, Yoboseyo, etc. (10 min walk)</li>
+</ul>
+
+
+In addition, attendees will find numerous dining options just off campus, including Thai by Trio, Northern Cafe, 901 Bar and Grill, Rock and Reilly's, Mercado La Paloma etc.
