@@ -2,8 +2,8 @@
 layout: page
 title: "Venue"
 ---
-The NFM 2026 Symposium will be held at the **Michelson Center for Convergent Bioscience (MCB), Room 101,** on the campus of the University of Southern California.
-
+The NFM 2026 Symposium will be held at the **Michelson Center for Convergent Bioscience (MCB), Room 101,** on the campus of the University of Southern California.<br>
+Address: <strong>[1002 Childs Way, Los Angeles, CA 90089](https://maps.app.goo.gl/ycuA9mrg4BSmTBcX8)</strong>
 
 <!-- <div class="map-responsive">
     <iframe 
