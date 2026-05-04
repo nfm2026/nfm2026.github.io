@@ -41,6 +41,41 @@ Payment instructions are here: [Link](https://transnet.usc.edu/wp-content/upload
 Attendees are encouraged to use the following parking structures:
 
 <ul>
+  <li><strong>Royal Street Structure</strong>
+  <a href="https://maps.app.goo.gl/mVgaoyjDmQznrcPj8">(Map Link)</a><br>
+  
+  Attendees can use a digital parking pass system to park without stopping at a gate entrance booth. Please follow the instructions below to register your vehicle.
+
+    <ul>
+      <li>
+        <strong>Registration Link:</strong>
+        <a href=" https://www.offstreet.io/events/03Q8ZYWB" target="_blank">
+          https://www.offstreet.io/events/03Q8ZYWB
+        </a>
+      </li>
+
+      <li>
+        <strong>Enter Vehicle License Plate:</strong>
+        Please ensure the correct State/Province is selected.
+      </li>
+
+      <li>
+        <strong>Enter Pass Code:</strong>
+        404564
+      </li>
+
+      <li>
+        <strong>Parking Confirmation Receipt:</strong>
+        After completing registration, you may enter your email address to receive a confirmation receipt.
+      </li>
+    </ul>
+
+    <p>
+    <strong>Important:</strong> Please do <strong>not</strong> park in any reserved/signage space as these are for reserved permit holders only!
+    </p>
+  
+  </li>
+  
   <li><strong>USC Shrine Parking Structure</strong>
   <a href="https://maps.app.goo.gl/ueLUeDbYjqwbxPyj7"> 
     (Map Link)
