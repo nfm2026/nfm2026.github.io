@@ -86,7 +86,8 @@ title: Accepted Papers
 function promptPassword(e) {
   e.preventDefault();
   const password = prompt("Enter password to access pre-prints:");
-  if (password === "nfm26@USC") {
+  const correctPassword = atob("bmZtMjZAVVND");
+  if (password === correctPassword) {
     window.location.href = "https://tinyurl.com/yv8rsr39";
   } else if (password !== null) {
     alert("Incorrect password.");
