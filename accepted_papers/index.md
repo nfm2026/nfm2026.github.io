@@ -3,7 +3,9 @@ layout: default
 title: Accepted Papers
 ---
 
-# Accepted Papers
+
+
+# Accepted Papers (<a href="#" onclick="promptPassword(event)">Pre-prints</a>)
 
 1. **From Natural Language Requirements to Runtime Monitors for Resource-Constrained Systems: Integrating FRET and R2U2**<br>
    Alexis Aurandt, Christopher Johannsen, Andreas Katis, Anastasia Mavridou, Kristin Yvonne Rozier, Phillip H. Jones
@@ -79,3 +81,15 @@ title: Accepted Papers
 
 25. **Artificial Incorrectness: SMT and LLMs in Hardware Synthesis**<br>
     Edward Wang, Joe Walston, Luca Daniel, Tony Tan, Yoni Zohar, Clark Barrett
+
+<script>
+function promptPassword(e) {
+  e.preventDefault();
+  const password = prompt("Enter password to access pre-prints:");
+  if (password === "nfm26@USC") {
+    window.location.href = "https://tinyurl.com/yv8rsr39";
+  } else if (password !== null) {
+    alert("Incorrect password.");
+  }
+}
+</script>
